@@ -1,7 +1,7 @@
 # Reading Group for the ML in Practice Lab
 *PI Matthew Engelhard*
 
-Our goal is to understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
+**Goal:** to understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
 
 ## Upcoming Presentations
 
