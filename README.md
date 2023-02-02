@@ -1,4 +1,4 @@
-# Reading Group for the ML in Practice Lab
+# ML in Practice Reading Group
 *PI Matthew Engelhard*
 
 **Purpose:** to understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
