@@ -4,6 +4,7 @@
 Our focus is on machine learning papers relevant to the modeling of high-dimensional clinical data
 
 Date | Paper | Presenter
+--- | --- | ---
 Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard
 Feb 13, 2023 | [Transformer Hawkes Process](http://proceedings.mlr.press/v119/zuo20a) | Zhengyi (Gloria) Gu
 Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi (Lucilla) Li
