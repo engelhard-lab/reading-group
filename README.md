@@ -1,7 +1,7 @@
 # Reading Group for the ML in Practice Lab
 *PI Matthew Engelhard*
 
-Our focus is on novel machine learning methods that help us model high-dimensional clinical data to support clinical practice.
+Our goal is to understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
 
 ## Upcoming Presentations
 
