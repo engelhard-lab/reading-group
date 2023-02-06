@@ -6,7 +6,7 @@
 **Format**:
 - ~30 minute presentation + ~30 minutes for questions, discussion, and brainstorming
 - Presentation guidelines are [here](presentation_template.pdf)
-- The guidelines can also be used as a presentation template ([source](presentation_template.tex)]
+- The guidelines can also be used as a presentation template ([source](presentation_template.tex))
 
 ## Upcoming Presentations
 
@@ -21,4 +21,4 @@ Mar 6, 2023 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic 
 
 Date | Paper | Presenter
 --- | --- | ---
-Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard<br>([slides](presentations/agrawal_aistats_2022.pdf))
+Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard ([slides](presentations/agrawal_aistats_2022.pdf))
