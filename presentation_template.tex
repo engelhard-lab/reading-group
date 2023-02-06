@@ -1,0 +1,161 @@
+\documentclass[10pt, aspectratio=169]{beamer}
+\usetheme{Madrid}
+
+\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{bm}
+\usepackage{wrapfig}
+\usepackage{booktabs}
+
+\title[Presentation Template]{Presentation Template}
+
+\author[ML in Practice]{Machine Learning in Practice Reading Group}
+
+\institute{Duke B\&B}
+
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\centering{Presented by Matthew Engelhard}
+\end{frame}
+
+\begin{frame}
+\frametitle{Presentation Goals}
+\textbf{As presenter}
+\begin{itemize}
+    \item Understand the paper well enough to (a) review it, or (b) begin to implement the approach. Expect this to take time!
+    \item Practice presentation skills
+    \item You are contributing to the knowledge and progress of the group!
+\end{itemize}
+
+\vspace{1em}
+\textbf{As attendee}
+\begin{itemize}
+    \item Understand the purpose of the paper
+    \item Begin to understand technical details (depending on your level)
+    \item Recognize background knowledge you may be missing
+    \item Determine whether a deeper dive is warranted
+    \item Broaden knowledge of the ML literature
+\end{itemize}
+
+\vspace{1em}
+Stimulate discussion, questions, and ideas! Participation is a critical component of this.
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 1: Introduction}
+\textbf{Purpose}
+\begin{itemize}
+    \item What limitation of current methods does this paper address?
+    \item What new problem settings or variations (if any) does it explore?
+    \item \textbf{Why does this paper matter?}
+\end{itemize}
+
+\vspace{2em}
+\textbf{Intuition}: Provide a brief overview of the authors' approach from an intuitive perspective.
+
+\vspace{2em}
+\textbf{Potential Applications}
+\begin{itemize}
+    \item What applications do the authors explore?
+    \item Give at least one example of how the work could be applied to clinical data.
+    \item Ideally, provide an example relevant to your own work.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 2: Background}
+List or briefly describe background knowledge required to understand and implement the paper.
+
+\vspace{2em}
+\begin{itemize}
+    \item This material may be covered in the related work section or preliminary portion of the methods.
+    \item Typically there won't be enough time to present background material in detail.
+    \item If possible, recommend resources your fellow group members might consult if they want to get up to speed.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 3: Methods}
+This is the heart of the presentation, and will often be the most time-consuming portion. Still, limiting your presentation to $\sim$30 minutes means you'll need to focus on the high points.
+
+\vspace{1em}
+\textbf{Some recommendations:}
+\begin{itemize}
+    \item Stick to the authors' notation \textbf{even if you see ways to improve it}. Attendees will reference both your presentation and the paper. Changing notation may create more confusion than it solves.
+    \item If the authors created figures that help explain the concept, include them.
+    \item Focus on presenting key equations rather than covering everything.
+    \item Derivations are often overkill in this context. Attendees should consult the paper for full details.
+\end{itemize}
+
+\vspace{1em}
+Often -- but not always -- the methods can be divided into:
+\begin{enumerate}
+    \item Problem setup and notation
+    \item Description of model
+    \item Description of learning/optimization
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 4 (optional): Theoretical Results}
+It is not possible to present detailed theoretical results in a 30-minute presentation. Instead:
+
+\vspace{2em}
+\begin{itemize}
+    \item Present key results and the assumptions underlying them
+    \item \textbf{Don't} present proofs, but \textbf{do} briefly outline the argument if possible
+    \item Describe practical takeaways
+\end{itemize}
+
+\vspace{2em}
+Readers who wish to fully understand the results will need to consult the paper.
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 5 (optional but strongly recommended): Implementation Details}
+Imagine you (or an attendee) will need to implement the proposed methods. How would you do it? These details are often omitted or buried (e.g. in the experimental results) to make the paper seem more general or elegant. This is your opportunity to make things more concrete and approachable.
+
+\vspace{2em}
+\begin{itemize}
+    \item List steps required to implement
+    \item What tools/software are required?
+    \item How does the math translate into code?
+    \item What details (if any) are unclear?
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 6: Experimental Results}
+Briefly present experimental results that support the effectiveness of the proposed method(s).
+
+\vspace{2em}
+\begin{itemize}
+    \item Include key figures or tables
+    \item \textbf{Don't} spend time recreating tables in \LaTeX. A high-resolution screenshot (e.g. of a table) is fine.
+    \item If you have doubts about the results, please describe them!
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Section 7 (optional): Recommendations}
+After presenting experimental results, you may want to provide concluding commentary, such as:
+
+\vspace{1em}
+\begin{itemize}
+    \item Whether you found the methods and/or experimental results compelling
+    \item Whether or in what settings you'd recommend using the proposed approach
+    \item Limitations of the methods or ways to overcome them
+    \item Ideas for your work or the group that were inspired by the paper
+\end{itemize}
+\end{frame}
+
+\end{document}
+
