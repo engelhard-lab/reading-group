@@ -3,11 +3,15 @@
 
 **Purpose:** to understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
 
+Format:
+- ~30 minute presentation + ~30 minutes for questions, discussion, and brainstorming
+- Presentation guidelines are [here](presentation_template.pdf)
+- The guidelines can also be used as a presentation template ([source](presentation_template.tex)]
+
 ## Upcoming Presentations
 
 Date | Paper | Presenter
 --- | --- | ---
-Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard
 Feb 13, 2023 | [Transformer Hawkes Process](http://proceedings.mlr.press/v119/zuo20a) | Zhengyi (Gloria) Gu
 Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi (Lucilla) Li
 Feb 27, 2023 | [CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/hash/288cd2567953f06e460a33951f55daaf-Abstract.html) | Mengying Yan
@@ -17,4 +21,4 @@ Mar 6, 2023 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic 
 
 Date | Paper | Presenter
 --- | --- | ---
-NA | NA | NA
+Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard<br>([slides](presentations/agrawal_aistats_2022.pdf))
