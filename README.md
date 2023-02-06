@@ -1,9 +1,10 @@
 # ML in Practice Reading Group
 *PI Matthew Engelhard*
 
-**Purpose**: understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
+## Purpose
+To understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
 
-**Format**:
+## Format
 - ~30 minute presentation + ~30 minutes for questions, discussion, and brainstorming
 - Presentation guidelines are [here](presentation_template.pdf)
 - The guidelines can also be used as a presentation template ([source](presentation_template.tex))
