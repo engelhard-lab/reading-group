@@ -21,6 +21,6 @@ Mar 13, 2023 | [Multi-Time Attention Networks for Irregularly Sampled Time Serie
 
 Date | Paper | Presenter
 --- | --- | ---
-Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi (Lucilla) Li
+Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi (Lucilla) Li ([slides](presentations/tzeng_cvpr_2017.pdf))
 Feb 13, 2023 | [Transformer Hawkes Process](http://proceedings.mlr.press/v119/zuo20a) | Zhengyi (Gloria) Gu ([slides](presentations/zuo_icml_2020.pdf))
 Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard ([slides](presentations/agrawal_aistats_2022.pdf))
