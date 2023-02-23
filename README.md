@@ -17,6 +17,7 @@ Feb 27, 2023 | [CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation
 Mar 6, 2023 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf) | Scott Sun
 Mar 13, 2023 | [Multi-Time Attention Networks for Irregularly Sampled Time Series](https://arxiv.org/pdf/2101.10318.pdf) | Elliot Hill
 Mar 20, 2023 | [Learning Representations for Time Series Clustering](https://proceedings.neurips.cc/paper/2019/file/1359aa933b48b754a2f54adb688bfa77-Paper.pdf) | Yuankang Zhao
+Mar 27, 2023 | [MetaFormer is Actually What You Need for Vision](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.pdf) | Boyao Li
 
 ## Past Presentations
 
