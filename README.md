@@ -13,7 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-
 Mar 27, 2023 | [Learning Representations for Time Series Clustering](https://proceedings.neurips.cc/paper/2019/file/1359aa933b48b754a2f54adb688bfa77-Paper.pdf) | Yuankang Zhao
 Apr 3, 2023 | [MetaFormer is Actually What You Need for Vision](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.pdf) | Boyao Li
 Apr 10, 2023 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) | Alex Thomson
