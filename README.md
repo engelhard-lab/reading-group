@@ -20,7 +20,7 @@ TBD | TBD | TBD -->
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
---- | --- | ---
+--- | --- | --- | ---
 Apr 10, 2023 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) | Alex Thomson | [Sohl-Dickstein ICML 2015](presentations/sohl-dickstein_icml_2015.pdf)
 Apr 3, 2023 | [MetaFormer is Actually What You Need for Vision](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.pdf) | Boyao Li | [Yu CVPR 2022](presentations/yu_cvpr_2022.pdf)
 Mar 27, 2023 | [Learning Representations for Time Series Clustering](https://proceedings.neurips.cc/paper/2019/file/1359aa933b48b754a2f54adb688bfa77-Paper.pdf) | Yuankang Zhao | [MA Neurips 2019](presentations/ma_neurips_2019.pdf)
