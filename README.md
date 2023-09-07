@@ -11,11 +11,10 @@ To understand and develop machine learning methods that help us model high-dimen
 
 ## Upcoming Presentations
 
-Presentations will resume in the fall.
-
-<!-- Date | Paper | Presenter
+Date | Paper | Presenter
 --- | --- | ---
-TBD | TBD | TBD -->
+Sep 8, 2023 | [Predicting Rare Events by Shrinking Towards Proportional Odds](http://proceedings.mlr.press/v202/faletto23a/faletto23a.pdf) | Quinn Lanners
+Sep 15, 2023 | [A Review of YOLO Algorithm Developments](https://www.sciencedirect.com/science/article/pii/S1877050922001363) | Irene Tanner
 
 ## Past Presentations
 
