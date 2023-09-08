@@ -11,16 +11,16 @@ To understand and develop machine learning methods that help us model high-dimen
 
 ## Upcoming Presentations
 
-Date | Paper | Presenter | Slides
---- | --- | --- | ---
-Sep 8, 2023 | [Predicting Rare Events by Shrinking Towards Proportional Odds](http://proceedings.mlr.press/v202/faletto23a/faletto23a.pdf) | Quinn Lanners | [Faletto ICML 2023](presentations/faletto_icml_2023.pdf)
-Sep 15, 2023 | [A Review of YOLO Algorithm Developments](https://www.sciencedirect.com/science/article/pii/S1877050922001363) | Irene Tanner | 
-Sep 23, 2023 | [Generative Oversampling for Imbalanced Data via Majority-Guided VAE](https://proceedings.mlr.press/v206/ai23a/ai23a.pdf) | Scott Sun | 
+Date | Paper | Presenter
+--- | --- | ---
+Sep 15, 2023 | [A Review of YOLO Algorithm Developments](https://www.sciencedirect.com/science/article/pii/S1877050922001363) | Irene Tanner
+Sep 23, 2023 | [Generative Oversampling for Imbalanced Data via Majority-Guided VAE](https://proceedings.mlr.press/v206/ai23a/ai23a.pdf) | Scott Sun
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Sep 8, 2023 | [Predicting Rare Events by Shrinking Towards Proportional Odds](http://proceedings.mlr.press/v202/faletto23a/faletto23a.pdf) | Quinn Lanners | [Faletto ICML 2023](presentations/faletto_icml_2023.pdf)
 Apr 10, 2023 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) | Alex Thomson | [Sohl-Dickstein ICML 2015](presentations/sohl-dickstein_icml_2015.pdf)
 Apr 3, 2023 | [MetaFormer is Actually What You Need for Vision](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.pdf) | Boyao Li | [Yu CVPR 2022](presentations/yu_cvpr_2022.pdf)
 Mar 27, 2023 | [Learning Representations for Time Series Clustering](https://proceedings.neurips.cc/paper/2019/file/1359aa933b48b754a2f54adb688bfa77-Paper.pdf) | Yuankang Zhao | [Ma Neurips 2019](presentations/ma_neurips_2019.pdf)
