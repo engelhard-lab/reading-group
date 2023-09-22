@@ -13,7 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Sep 22, 2023 | [Generative Oversampling for Imbalanced Data via Majority-Guided VAE](https://proceedings.mlr.press/v206/ai23a/ai23a.pdf) | Scott Sun
 Sep 29, 2023 | No Meeting | NA
 Oct 6, 2023 | [Deep Cox Mixtures for Survival Regression](https://proceedings.mlr.press/v149/nagpal21a) | Mufan Wang
 
@@ -21,6 +20,7 @@ Oct 6, 2023 | [Deep Cox Mixtures for Survival Regression](https://proceedings.ml
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Sep 23, 2023 | [Generative Oversampling for Imbalanced Data via Majority-Guided VAE](https://proceedings.mlr.press/v206/ai23a/ai23a.pdf) | Scott Sun | [Ai AISTATS 2023](presentations/ai_aistats_2023.pdf)
 Sep 15, 2023 | [Health System-Scale Language Models are All-Purpose Prediction Engines](https://www.nature.com/articles/s41586-023-06160-y) | Angel Huang | [Jiang Nature 2023](presentations/jiang_nature_2023.pdf)
 Sep 8, 2023 | [Predicting Rare Events by Shrinking Towards Proportional Odds](http://proceedings.mlr.press/v202/faletto23a/faletto23a.pdf) | Quinn Lanners | [Faletto ICML 2023](presentations/faletto_icml_2023.pdf)
 Apr 10, 2023 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) | Alex Thomson | [Sohl-Dickstein ICML 2015](presentations/sohl-dickstein_icml_2015.pdf)
