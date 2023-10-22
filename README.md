@@ -13,14 +13,14 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Oct 13, 2023 | No Meeting | NA
-Oct 20, 2023 | [EHR foundation models improve robustness in the presence of temporal distribution shift](https://www.nature.com/articles/s41598-023-30820-8) | De Rong Loh
-
+Oct 27, 2023 | [Offline Reinforcement Learning as One Big
+Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 20, 2023 | [EHR foundation models improve robustness in the presence of temporal distribution shift](https://www.nature.com/articles/s41598-023-30820-8) | De Rong Loh | [Guo Scientific Reports 2023](presentations/guo_scientific_reports_2023.pdf)
 Oct 6, 2023 | [Deep Cox Mixtures for Survival Regression](https://proceedings.mlr.press/v149/nagpal21a) | Mufan Wang | [Nagpal MLHC 2021](presentations/nagpal_mlhc_2021.pdf)
 Sep 23, 2023 | [Generative Oversampling for Imbalanced Data via Majority-Guided VAE](https://proceedings.mlr.press/v206/ai23a/ai23a.pdf) | Scott Sun | [Ai AISTATS 2023](presentations/ai_aistats_2023.pdf)
 Sep 15, 2023 | [Health System-Scale Language Models are All-Purpose Prediction Engines](https://www.nature.com/articles/s41586-023-06160-y) | Angel Huang | [Jiang Nature 2023](presentations/jiang_nature_2023.pdf)
