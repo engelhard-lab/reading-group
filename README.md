@@ -13,8 +13,7 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Oct 27, 2023 | [Offline Reinforcement Learning as One Big
-Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill
+Oct 27, 2023 | [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill
 
 ## Past Presentations
 
