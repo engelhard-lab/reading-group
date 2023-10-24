@@ -14,6 +14,13 @@ To understand and develop machine learning methods that help us model high-dimen
 Date | Paper | Presenter
 --- | --- | ---
 Oct 27, 2023 | [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill
+Nov 3, 2023 | [BEHRT: Transformer for Electronic Health Records](https://www.nature.com/articles/s41598-020-62922-y) | Xi Liang
+Nov 10, 2023 | []() | Mengying Yan
+Nov 17, 2023 | []() | Boyao Li
+Nov 24, 2023 | Thanksgiving Break | NA
+Dec 1, 2023 | []() | Joao Vitor Perez De Souza
+Dec 8, 2023 | [Efficient Streaming Language Models with Attention Sinks](https://browse.arxiv.org/pdf/2309.17453.pdf) | Huan Liang
+Dec 15, 2023 | []() | Qin Weng
 
 ## Past Presentations
 
