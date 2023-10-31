@@ -13,19 +13,19 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Oct 27, 2023 | [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill
 Nov 3, 2023 | [BEHRT: Transformer for Electronic Health Records](https://www.nature.com/articles/s41598-020-62922-y) | Xi Liang
-Nov 10, 2023 | []() | Mengying Yan
-Nov 17, 2023 | []() | Boyao Li
+Nov 10, 2023 | [Partial Optimal Transport with Applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/file/1e6e25d952a0d639b676ee20d0519ee2-Paper.pdf) | Mengying Yan
+Nov 17, 2023 | [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) | Boyao Li
 Nov 24, 2023 | Thanksgiving Break | NA
-Dec 1, 2023 | []() | Joao Vitor Perez De Souza
-Dec 8, 2023 | [Efficient Streaming Language Models with Attention Sinks](https://browse.arxiv.org/pdf/2309.17453.pdf) | Huan Liang
+Dec 1, 2023 | [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a/tonekaboni22a.pdf) | Joao Vitor Perez De Souza
+Dec 8, 2023 | [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/pdf/2309.12307.pdf) | Huan Liang
 Dec 15, 2023 | []() | Qin Weng
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 27, 2023 | [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill | [Janner NeurIPS 2021](presentations/janner_neurips_2021.pdf)
 Oct 20, 2023 | [EHR foundation models improve robustness in the presence of temporal distribution shift](https://www.nature.com/articles/s41598-023-30820-8) | De Rong Loh | [Guo Scientific Reports 2023](presentations/guo_scientific_reports_2023.pdf)
 Oct 6, 2023 | [Deep Cox Mixtures for Survival Regression](https://proceedings.mlr.press/v149/nagpal21a) | Mufan Wang | [Nagpal MLHC 2021](presentations/nagpal_mlhc_2021.pdf)
 Sep 23, 2023 | [Generative Oversampling for Imbalanced Data via Majority-Guided VAE](https://proceedings.mlr.press/v206/ai23a/ai23a.pdf) | Scott Sun | [Ai AISTATS 2023](presentations/ai_aistats_2023.pdf)
