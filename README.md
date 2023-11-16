@@ -24,7 +24,7 @@ Dec 15, 2023 | []() | Qin Weng
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
 Nov 10, 2023 | [Partial Optimal Transport with Applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/file/1e6e25d952a0d639b676ee20d0519ee2-Paper.pdf) | Mengying Yan | [Chapel NeurIPS 2020](presentations/chapel_neurips_2020.pdf)
-Nov 3, 2023 | [BEHRT: Transformer for Electronic Health Records](https://www.nature.com/articles/s41598-020-62922-y) | Xi Liang | [Su 2021](presentations/su_arxiv_2021.pdf)
+Nov 3, 2023 | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf) | Xi Liang | [Su 2021](presentations/su_arxiv_2021.pdf)
 Oct 27, 2023 | [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill | [Janner NeurIPS 2021](presentations/janner_neurips_2021.pdf)
 Oct 20, 2023 | [EHR foundation models improve robustness in the presence of temporal distribution shift](https://www.nature.com/articles/s41598-023-30820-8) | De Rong Loh | [Guo Scientific Reports 2023](presentations/guo_scientific_reports_2023.pdf)
 Oct 6, 2023 | [Deep Cox Mixtures for Survival Regression](https://proceedings.mlr.press/v149/nagpal21a) | Mufan Wang | [Nagpal MLHC 2021](presentations/nagpal_mlhc_2021.pdf)
