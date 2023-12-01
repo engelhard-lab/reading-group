@@ -15,7 +15,7 @@ Date | Paper | Presenter
 --- | --- | ---
 Dec 1, 2023 | [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a/tonekaboni22a.pdf) | Joao Vitor Perez De Souza
 Dec 8, 2023 | [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/pdf/2309.12307.pdf) | Huan Liang
-Dec 15, 2023 | []() | Qin Weng
+Dec 15, 2023 | [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) | Qin Weng
 
 ## Past Presentations
 
