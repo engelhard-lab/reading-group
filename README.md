@@ -13,8 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Nov 17, 2023 | [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) | Boyao Li
-Nov 24, 2023 | Thanksgiving Break | NA
 Dec 1, 2023 | [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a/tonekaboni22a.pdf) | Joao Vitor Perez De Souza
 Dec 8, 2023 | [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/pdf/2309.12307.pdf) | Huan Liang
 Dec 15, 2023 | []() | Qin Weng
@@ -23,6 +21,7 @@ Dec 15, 2023 | []() | Qin Weng
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Nov 17, 2023 | [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) | Boyao Li | [Su 2023](presentations/su_arxiv_2023.pdf)
 Nov 10, 2023 | [Partial Optimal Transport with Applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/file/1e6e25d952a0d639b676ee20d0519ee2-Paper.pdf) | Mengying Yan | [Chapel NeurIPS 2020](presentations/chapel_neurips_2020.pdf)
 Nov 3, 2023 | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf) | Xi Liang | [Su 2021](presentations/su_arxiv_2021.pdf)
 Oct 27, 2023 | [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf) | Elliot Hill | [Janner NeurIPS 2021](presentations/janner_neurips_2021.pdf)
