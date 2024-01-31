@@ -13,14 +13,27 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Dec 1, 2023 | [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a/tonekaboni22a.pdf) | Joao Vitor Perez De Souza
-Dec 8, 2023 | [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/pdf/2309.12307.pdf) | Huan Liang
-Dec 15, 2023 | [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) | Qin Weng
+Feb 2, 2024 | [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/pdf/2106.10466.pdf) | Yuankang Zhao
+Feb 9, 2024 | TBD | Yuqi Li
+Feb 16, 2024 | TBD | Alexander Thomson
+Feb 23, 2024 | TBD | aditya parekh
+Mar 01, 2024 | TBD | Scott Sun
+Mar 08, 2024 | TBD | Elliot Hill
+Mar 15, 2024 | NA | SPRING BREAK
+Mar 22, 2024 | NA | AMIA SUMMIT
+Mar 29, 2024 | TBD | Mengying Yan
+Apr 05, 2024 | TBD | Ya-Yun Huang
+Apr 12, 2024 | TBD | Mian Wei
+Apr 19, 2024 | TBD | Qin Weng
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Jan 26, 2024 | [Minimax AUC Fairness: Efficient Algorithm With Provable Convergence](https://arxiv.org/pdf/2208.10451.pdf) | Luke Wang | [Yang AAAI 2023](presentations/yang_aaai_2023.pdf)
+Dec 15, 2023 | [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) | Qin Weng | [Zimmerman ICML 2021](presentations/zimmerman_icml_2021.pdf)
+Dec 8, 2023 | [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/pdf/2309.12307.pdf) | Huan Liang | [Chen arXiv 2023](presentations/chen_arxiv_2023.pdf)
+Dec 1, 2023 | [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a/tonekaboni22a.pdf) | Joao Vitor Perez De Souza | [Tonekaboni CHIL 2022](presentations/tonekaboni_chil_2022.pdf)
 Nov 17, 2023 | [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) | Boyao Li | [Su 2023](presentations/su_arxiv_2023.pdf)
 Nov 10, 2023 | [Partial Optimal Transport with Applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/file/1e6e25d952a0d639b676ee20d0519ee2-Paper.pdf) | Mengying Yan | [Chapel NeurIPS 2020](presentations/chapel_neurips_2020.pdf)
 Nov 3, 2023 | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf) | Xi Liang | [Su 2021](presentations/su_arxiv_2021.pdf)
