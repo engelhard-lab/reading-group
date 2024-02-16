@@ -16,7 +16,7 @@ Date | Paper | Presenter
 Feb 16, 2024 | [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) | Alexander Thomson
 Feb 23, 2024 | [Bayesian information sharing enhances detection of regulatory associations in rare cell types](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i349/6319694) | Aditya Parekh
 Mar 01, 2024 | [Rare Event Detection using Disentangled Representation Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hamaguchi_Rare_Event_Detection_Using_Disentangled_Representation_Learning_CVPR_2019_paper.pdf) | Scott Sun
-Mar 08, 2024 | [Learning Temporally Causal Latent Processes from General Temporal Data](https://arxiv.org/pdf/2110.05428.pdf) | Elliot Hill
+Mar 08, 2024 | [Multi-Level Variational Autoencoder: Learning Disentangled Representations From Grouped Observations](https://ojs.aaai.org/index.php/AAAI/article/view/11867) | Elliot Hill
 Mar 15, 2024 | NA | SPRING BREAK
 Mar 22, 2024 | NA | AMIA SUMMIT
 Mar 29, 2024 | TBD | Mengying Yan
