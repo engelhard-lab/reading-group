@@ -13,7 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Feb 16, 2024 | [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) | Alexander Thomson
 Feb 23, 2024 | [Bayesian information sharing enhances detection of regulatory associations in rare cell types](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i349/6319694) | Aditya Parekh
 Mar 01, 2024 | [Rare Event Detection using Disentangled Representation Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hamaguchi_Rare_Event_Detection_Using_Disentangled_Representation_Learning_CVPR_2019_paper.pdf) | Scott Sun
 Mar 08, 2024 | [Multi-Level Variational Autoencoder: Learning Disentangled Representations From Grouped Observations](https://ojs.aaai.org/index.php/AAAI/article/view/11867) | Elliot Hill
@@ -28,6 +27,7 @@ Apr 19, 2024 | TBD | Qin Weng
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Feb 16, 2024 | [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) | Alexander Thomson | [Rezende ICML 2015](presentations/rezende_icml_2015.pdf)
 Feb 9, 2024 | [Invariant representation learning for treatment effect estimation](https://proceedings.mlr.press/v161/shi21a.html) | Yuqi Li | [Shi UAI 2021](presentations/shi_uai_2021.pdf)
 Feb 2, 2024 | [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/pdf/2106.10466.pdf) | Yuankang Zhao | [Yue AAAI 2022](presentations/yue_aaai_2022.pdf)
 Jan 26, 2024 | [Minimax AUC Fairness: Efficient Algorithm With Provable Convergence](https://arxiv.org/pdf/2208.10451.pdf) | Luke Wang | [Yang AAAI 2023](presentations/yang_aaai_2023.pdf)
