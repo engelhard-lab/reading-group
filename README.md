@@ -13,8 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Feb 23, 2024 | [Bayesian information sharing enhances detection of regulatory associations in rare cell types](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i349/6319694) | Aditya Parekh
-Mar 01, 2024 | [Rare Event Detection using Disentangled Representation Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hamaguchi_Rare_Event_Detection_Using_Disentangled_Representation_Learning_CVPR_2019_paper.pdf) | Scott Sun
 Mar 08, 2024 | [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/pdf/2101.05265.pdf) | Elliot Hill
 Mar 15, 2024 | NA | SPRING BREAK
 Mar 22, 2024 | NA | AMIA SUMMIT
@@ -27,6 +25,8 @@ Apr 19, 2024 | TBD | Qin Weng
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Mar 01, 2024 | [Rare Event Detection using Disentangled Representation Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hamaguchi_Rare_Event_Detection_Using_Disentangled_Representation_Learning_CVPR_2019_paper.pdf) | Scott Sun | [Hamaguchi CVPR 2019](presentations/hamaguchi_cvpr_2019.pdf)
+Feb 23, 2024 | [Bayesian information sharing enhances detection of regulatory associations in rare cell types](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i349/6319694) | Aditya Parekh | [Wu Bioinformatics 2021](presentations/wu_bioinformatics_2021.pdf)
 Feb 16, 2024 | [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) | Alexander Thomson | [Rezende ICML 2015](presentations/rezende_icml_2015.pdf)
 Feb 9, 2024 | [Invariant representation learning for treatment effect estimation](https://proceedings.mlr.press/v161/shi21a.html) | Yuqi Li | [Shi UAI 2021](presentations/shi_uai_2021.pdf)
 Feb 2, 2024 | [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/pdf/2106.10466.pdf) | Yuankang Zhao | [Yue AAAI 2022](presentations/yue_aaai_2022.pdf)
