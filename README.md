@@ -13,17 +13,16 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Mar 15, 2024 | NA | SPRING BREAK
-Mar 22, 2024 | NA | AMIA SUMMIT
-Mar 29, 2024 | TBD | Mengying Yan
-Apr 05, 2024 | TBD | Ya-Yun Huang
-Apr 12, 2024 | TBD | Mian Wei
+Apr 05, 2024 | [On the Limitations of Temperature Scaling for Distributions with Overlaps](https://arxiv.org/abs/2306.00740) | Muthu Chidambaram
+Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei
 Apr 19, 2024 | TBD | Qin Weng
+Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Mar 29, 2024 | [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) | Mengying Yan | [Courty PAMI 2015](presentations/courty_pami_2015.pdf)
 Mar 08, 2024 | [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/pdf/2101.05265.pdf) | Elliot Hill | [Agarwal ICLR 2021](presentations/agarwal_iclr_2021.pdf)
 Mar 01, 2024 | [Rare Event Detection using Disentangled Representation Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hamaguchi_Rare_Event_Detection_Using_Disentangled_Representation_Learning_CVPR_2019_paper.pdf) | Scott Sun | [Hamaguchi CVPR 2019](presentations/hamaguchi_cvpr_2019.pdf)
 Feb 23, 2024 | [Bayesian information sharing enhances detection of regulatory associations in rare cell types](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i349/6319694) | Aditya Parekh | [Wu Bioinformatics 2021](presentations/wu_bioinformatics_2021.pdf)
