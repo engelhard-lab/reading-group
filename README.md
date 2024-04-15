@@ -20,7 +20,7 @@ Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/arti
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
-Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | TBD
+Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | [Jin ICSDS 2023](presentations/jin_icsds_2023.pdf)
 Apr 05, 2024 | [On the Limitations of Temperature Scaling for Distributions with Overlaps](https://arxiv.org/abs/2306.00740) | Muthu Chidambaram | NA (Chalk Talk)
 Mar 29, 2024 | [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) | Mengying Yan | [Courty PAMI 2015](presentations/courty_pami_2015.pdf)
 Mar 08, 2024 | [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/pdf/2101.05265.pdf) | Elliot Hill | [Agarwal ICLR 2021](presentations/agarwal_iclr_2021.pdf)
@@ -51,3 +51,4 @@ Feb 27, 2023 | [CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation
 Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi (Lucilla) Li | [Tzeng CVPR 2017](presentations/tzeng_cvpr_2017.pdf)
 Feb 13, 2023 | [Transformer Hawkes Process](http://proceedings.mlr.press/v119/zuo20a) | Zhengyi (Gloria) Gu | [Zuo ICML 2020](presentations/zuo_icml_2020.pdf)
 Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard | [Agrawal AISTATS 2022](presentations/agrawal_aistats_2022.pdf)
+
