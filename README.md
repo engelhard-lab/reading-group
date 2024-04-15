@@ -13,14 +13,14 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei
-Apr 19, 2024 | TBD | Qin Weng
+Apr 19, 2024 | [Imputation-Based Q-Learning for Optimizing Dynamic Treatment Regimes with Right-Censored Survival Outcome](https://academic.oup.com/biometrics/article/79/4/3676/7587577) | Qin Weng
 Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | TBD
 Apr 05, 2024 | [On the Limitations of Temperature Scaling for Distributions with Overlaps](https://arxiv.org/abs/2306.00740) | Muthu Chidambaram | NA (Chalk Talk)
 Mar 29, 2024 | [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) | Mengying Yan | [Courty PAMI 2015](presentations/courty_pami_2015.pdf)
 Mar 08, 2024 | [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/pdf/2101.05265.pdf) | Elliot Hill | [Agarwal ICLR 2021](presentations/agarwal_iclr_2021.pdf)
