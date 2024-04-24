@@ -13,13 +13,15 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Apr 19, 2024 | [Imputation-Based Q-Learning for Optimizing Dynamic Treatment Regimes with Right-Censored Survival Outcome](https://academic.oup.com/biometrics/article/79/4/3676/7587577) | Qin Weng
 Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang
+
+We will resume in Fall 2024, with our first meeting being on August 30, 2024.
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Apr 19, 2024 | [Imputation-Based Q-Learning for Optimizing Dynamic Treatment Regimes with Right-Censored Survival Outcome](https://academic.oup.com/biometrics/article/79/4/3676/7587577) | Qin Weng | [Lyu Biometrics 2023](presentations/lyu_biometrics_2023.pdf)
 Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | [Jin ICSDS 2023](presentations/jin_icsds_2023.pdf)
 Apr 05, 2024 | [On the Limitations of Temperature Scaling for Distributions with Overlaps](https://arxiv.org/abs/2306.00740) | Muthu Chidambaram | NA (Chalk Talk)
 Mar 29, 2024 | [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) | Mengying Yan | [Courty PAMI 2015](presentations/courty_pami_2015.pdf)
