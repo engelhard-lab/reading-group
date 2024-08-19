@@ -13,14 +13,28 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang
-
-We will resume in Fall 2024, with our first meeting being on August 30, 2024.
+Aug 30, 2024 | TBD | Yuqi
+Sep 6, 2024 | None | MATT AWAY
+Sep 13, 2024 | TBD | Scott
+Sep 20, 2024 | TBD | Mengying
+Sep 27, 2024 | TBD | Aditya
+Oct 4, 2024 | TBD | Riddhiman
+Oct 11, 2024 | None | FALL BREAK
+Oct 18, 2024 | TBD | Angel
+Oct 25, 2024 | TBD | Qin
+Nov 1, 2024 | None | CBB RETREAT
+Nov 8, 2024 | TBD | Boyao
+Nov 15, 2024 | TBD | Christine
+Nov 22, 2024 | TBD | Yuankang
+Nov 29, 2024 | None | THANKSGIVING BREAK
+Dec 6, 2024 | TBD | Elliot
+Dec 13, 2024 | TBD | MAKE-UP DAY (IF NEEDED)
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang | TBD
 Apr 19, 2024 | [Imputation-Based Q-Learning for Optimizing Dynamic Treatment Regimes with Right-Censored Survival Outcome](https://academic.oup.com/biometrics/article/79/4/3676/7587577) | Qin Weng | [Lyu Biometrics 2023](presentations/lyu_biometrics_2023.pdf)
 Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | [Jin ICSDS 2023](presentations/jin_icsds_2023.pdf)
 Apr 05, 2024 | [On the Limitations of Temperature Scaling for Distributions with Overlaps](https://arxiv.org/abs/2306.00740) | Muthu Chidambaram | NA (Chalk Talk)
