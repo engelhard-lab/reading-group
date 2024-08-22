@@ -13,7 +13,7 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Aug 30, 2024 | TBD | Yuqi
+Aug 30, 2024 | [Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data](https://proceedings.mlr.press/v206/curth23a.html) | Yuqi
 Sep 6, 2024 | None | MATT AWAY
 Sep 13, 2024 | TBD | Scott
 Sep 20, 2024 | TBD | Mengying
