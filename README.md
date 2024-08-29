@@ -15,8 +15,8 @@ Date | Paper | Presenter
 --- | --- | ---
 Aug 30, 2024 | [Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data](https://proceedings.mlr.press/v206/curth23a.html) | Yuqi
 Sep 6, 2024 | None | MATT AWAY
-Sep 13, 2024 | TBD | Scott
-Sep 20, 2024 | TBD | Mengying
+Sep 13, 2024 | [From t-SNE to UMAP with contrastive learning](https://arxiv.org/pdf/2206.01816) | Scott
+Sep 20, 2024 | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220) | Mengying
 Sep 27, 2024 | TBD | Aditya
 Oct 4, 2024 | TBD | Riddhiman
 Oct 11, 2024 | None | FALL BREAK
