@@ -28,7 +28,7 @@ Nov 15, 2024 | TBD | Christine
 Nov 22, 2024 | TBD | Yuankang
 Nov 29, 2024 | None | THANKSGIVING BREAK
 Dec 6, 2024 | TBD | Elliot
-Dec 13, 2024 | TBD | MAKE-UP DAY (IF NEEDED)
+Dec 13, 2024 | TBD | Zigui
 
 ## Past Presentations
 
