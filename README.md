@@ -13,18 +13,15 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Aug 30, 2024 | [Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data](https://proceedings.mlr.press/v206/curth23a.html) | Yuqi
-Sep 6, 2024 | None | MATT AWAY
-Sep 13, 2024 | [From t-SNE to UMAP with contrastive learning](https://arxiv.org/pdf/2206.01816) | Scott
 Sep 20, 2024 | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220) | Mengying
 Sep 27, 2024 | TBD | Aditya
-Oct 4, 2024 | TBD | Riddhiman
+Oct 4, 2024 | [On Multi-Armed Bandit Designs for Dose-Finding Clinical Trials](https://www.jmlr.org/papers/volume22/19-228/19-228.pdf) | Riddhiman
 Oct 11, 2024 | None | FALL BREAK
 Oct 18, 2024 | TBD | Angel
 Oct 25, 2024 | TBD | Qin
 Nov 1, 2024 | None | CBB RETREAT
 Nov 8, 2024 | TBD | Boyao
-Nov 15, 2024 | TBD | Christine
+Nov 15, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine
 Nov 22, 2024 | TBD | Yuankang
 Nov 29, 2024 | None | THANKSGIVING BREAK
 Dec 6, 2024 | TBD | Elliot
@@ -34,6 +31,8 @@ Dec 13, 2024 | TBD | Zigui
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Sep 13, 2024 | [From t-SNE to UMAP with contrastive learning](https://arxiv.org/pdf/2206.01816) | Scott Sun | Damrich ICLR 2023
+Aug 30, 2024 | [Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data](https://proceedings.mlr.press/v206/curth23a.html) | Yuqi Li | Curth AISTATS 2023
 Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang | [Li AAAI 2021](presentations/li_aaai_2021.pdf)
 Apr 19, 2024 | [Imputation-Based Q-Learning for Optimizing Dynamic Treatment Regimes with Right-Censored Survival Outcome](https://academic.oup.com/biometrics/article/79/4/3676/7587577) | Qin Weng | [Lyu Biometrics 2023](presentations/lyu_biometrics_2023.pdf)
 Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | [Jin ICSDS 2023](presentations/jin_icsds_2023.pdf)
@@ -64,7 +63,7 @@ Mar 27, 2023 | [Learning Representations for Time Series Clustering](https://pro
 Mar 20, 2023 | [Multi-Time Attention Networks for Irregularly Sampled Time Series](https://arxiv.org/pdf/2101.10318.pdf) | Elliot Hill | [Shukla ICLR 2021](presentations/shukla_iclr_2021.pdf)
 Mar 6, 2023 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf) | Scott Sun | [Tashiro Neurips 2021](presentations/tashiro_neurips_2021.pdf)
 Feb 27, 2023 | [CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/hash/288cd2567953f06e460a33951f55daaf-Abstract.html) | Mengying Yan | [Singh Neurips 2021](presentations/singh_neurips_2021.pdf)
-Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi (Lucilla) Li | [Tzeng CVPR 2017](presentations/tzeng_cvpr_2017.pdf)
+Feb 20, 2023 | [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) | Yuqi Li | [Tzeng CVPR 2017](presentations/tzeng_cvpr_2017.pdf)
 Feb 13, 2023 | [Transformer Hawkes Process](http://proceedings.mlr.press/v119/zuo20a) | Zhengyi (Gloria) Gu | [Zuo ICML 2020](presentations/zuo_icml_2020.pdf)
 Feb 6, 2023 | [Leveraging Time Irreversibility with Order-Contrastive Pre-training](https://proceedings.mlr.press/v151/agrawal22a) | Matthew Engelhard | [Agrawal AISTATS 2022](presentations/agrawal_aistats_2022.pdf)
 
