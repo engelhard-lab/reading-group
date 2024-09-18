@@ -17,7 +17,7 @@ Sep 20, 2024 | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220) | Me
 Sep 27, 2024 | TBD | Aditya
 Oct 4, 2024 | [On Multi-Armed Bandit Designs for Dose-Finding Clinical Trials](https://www.jmlr.org/papers/volume22/19-228/19-228.pdf) | Riddhiman
 Oct 11, 2024 | None | FALL BREAK
-Oct 18, 2024 | TBD | Angel
+Oct 18, 2024 | [Hyperbolic Contrastive Learning for Visual Representations beyond Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Hyperbolic_Contrastive_Learning_for_Visual_Representations_Beyond_Objects_CVPR_2023_paper.pdf) | Angel
 Oct 25, 2024 | TBD | Qin
 Nov 1, 2024 | None | CBB RETREAT
 Nov 8, 2024 | TBD | Boyao
