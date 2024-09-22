@@ -13,8 +13,7 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Sep 20, 2024 | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220) | Mengying
-Sep 27, 2024 | TBD | Aditya
+Sep 27, 2024 | [Evidential Deep Learning to Quantify Classification Uncertainty](https://proceedings.neurips.cc/paper_files/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf) | Aditya
 Oct 4, 2024 | [On Multi-Armed Bandit Designs for Dose-Finding Clinical Trials](https://www.jmlr.org/papers/volume22/19-228/19-228.pdf) | Riddhiman
 Oct 11, 2024 | None | FALL BREAK
 Oct 18, 2024 | [Hyperbolic Contrastive Learning for Visual Representations beyond Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Hyperbolic_Contrastive_Learning_for_Visual_Representations_Beyond_Objects_CVPR_2023_paper.pdf) | Angel
@@ -31,8 +30,9 @@ Dec 13, 2024 | TBD | Zigui
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
-Sep 13, 2024 | [From t-SNE to UMAP with contrastive learning](https://arxiv.org/pdf/2206.01816) | Scott Sun | Damrich ICLR 2023
-Aug 30, 2024 | [Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data](https://proceedings.mlr.press/v206/curth23a.html) | Yuqi Li | Curth AISTATS 2023
+Sep 20, 2024 | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220) | Mengying Yan | [Korotin ICLR 2023](presentations/korotin_iclr_2023.pdf)
+Sep 13, 2024 | [From t-SNE to UMAP with contrastive learning](https://arxiv.org/pdf/2206.01816) | Scott Sun | [Damrich ICLR 2023](presentations/damrich_iclr_2023.pdf)
+Aug 30, 2024 | [Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data](https://proceedings.mlr.press/v206/curth23a.html) | Yuqi Li | [Curth AISTATS 2023](presentations/curth_aistats_2023.pdf)
 Apr 26, 2024 | [Contrastive Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17037) | Ya-Yun Huang | [Li AAAI 2021](presentations/li_aaai_2021.pdf)
 Apr 19, 2024 | [Imputation-Based Q-Learning for Optimizing Dynamic Treatment Regimes with Right-Censored Survival Outcome](https://academic.oup.com/biometrics/article/79/4/3676/7587577) | Qin Weng | [Lyu Biometrics 2023](presentations/lyu_biometrics_2023.pdf)
 Apr 12, 2024 | [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/pdf/2212.09900.pdf) | Mian Wei | [Jin ICSDS 2023](presentations/jin_icsds_2023.pdf)
