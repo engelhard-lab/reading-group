@@ -13,10 +13,7 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Oct 4, 2024 | [On Multi-Armed Bandit Designs for Dose-Finding Clinical Trials](https://www.jmlr.org/papers/volume22/19-228/19-228.pdf) | Riddhiman
-Oct 11, 2024 | None | FALL BREAK
-Oct 18, 2024 | [Hyperbolic Contrastive Learning for Visual Representations beyond Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Hyperbolic_Contrastive_Learning_for_Visual_Representations_Beyond_Objects_CVPR_2023_paper.pdf) | Angel
-Oct 25, 2024 | TBD | Qin
+Oct 25, 2024 | [Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning](https://arxiv.org/abs/2206.01558) | Qin
 Nov 1, 2024 | None | CBB RETREAT
 Nov 8, 2024 | TBD | Boyao
 Nov 15, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine
@@ -29,6 +26,8 @@ Dec 13, 2024 | TBD | Zigui
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 18, 2024 | [Hyperbolic Contrastive Learning for Visual Representations beyond Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Hyperbolic_Contrastive_Learning_for_Visual_Representations_Beyond_Objects_CVPR_2023_paper.pdf) | Angel Huang | [Ge CVPR 2023](presentations/ge_cvpr_2023.pdf)
+Oct 4, 2024 | [On Multi-Armed Bandit Designs for Dose-Finding Clinical Trials](https://www.jmlr.org/papers/volume22/19-228/19-228.pdf) | Riddhiman Bhattacharya | Aziz JMLR 2021
 Sep 27, 2024 | [Evidential Deep Learning to Quantify Classification Uncertainty](https://proceedings.neurips.cc/paper_files/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf) | Aditya Parekh | [Sensoy NeurIPS 2018](presentations/sensoy_neurips_2018.pdf)
 Sep 20, 2024 | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220) | Mengying Yan | [Korotin ICLR 2023](presentations/korotin_iclr_2023.pdf)
 Sep 13, 2024 | [From t-SNE to UMAP with contrastive learning](https://arxiv.org/pdf/2206.01816) | Scott Sun | [Damrich ICLR 2023](presentations/damrich_iclr_2023.pdf)
