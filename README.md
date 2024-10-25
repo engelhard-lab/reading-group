@@ -13,10 +13,9 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Oct 25, 2024 | [Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning](https://arxiv.org/abs/2206.01558) | Qin
 Nov 1, 2024 | None | CBB RETREAT
-Nov 8, 2024 | TBD | Boyao
-Nov 15, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine
+Nov 8, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine
+Nov 15, 2024 | TBD | Boyao
 Nov 22, 2024 | TBD | Yuankang
 Nov 29, 2024 | None | THANKSGIVING BREAK
 Dec 6, 2024 | TBD | Elliot
@@ -26,6 +25,7 @@ Dec 13, 2024 | TBD | Zigui
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 25, 2024 | [Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning](https://arxiv.org/abs/2206.01558) | Qin Weng | [Charpentier arXiv 2022](presentations/charpentier_arxiv_2022.pdf)
 Oct 18, 2024 | [Hyperbolic Contrastive Learning for Visual Representations beyond Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Hyperbolic_Contrastive_Learning_for_Visual_Representations_Beyond_Objects_CVPR_2023_paper.pdf) | Angel Huang | [Ge CVPR 2023](presentations/ge_cvpr_2023.pdf)
 Oct 4, 2024 | [On Multi-Armed Bandit Designs for Dose-Finding Clinical Trials](https://www.jmlr.org/papers/volume22/19-228/19-228.pdf) | Riddhiman Bhattacharya | [Aziz JMLR 2021](presentations/aziz_jmlr_2021.pdf)
 Sep 27, 2024 | [Evidential Deep Learning to Quantify Classification Uncertainty](https://proceedings.neurips.cc/paper_files/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf) | Aditya Parekh | [Sensoy NeurIPS 2018](presentations/sensoy_neurips_2018.pdf)
