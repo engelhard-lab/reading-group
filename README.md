@@ -15,7 +15,7 @@ Date | Paper | Presenter
 --- | --- | ---
 Nov 1, 2024 | None | CBB RETREAT
 Nov 8, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine
-Nov 15, 2024 | TBD | Boyao
+Nov 15, 2024 | [Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?](https://arxiv.org/pdf/2402.06160) | Boyao
 Nov 22, 2024 | TBD | Yuankang
 Nov 29, 2024 | None | THANKSGIVING BREAK
 Dec 6, 2024 | TBD | Elliot
