@@ -14,7 +14,7 @@ To understand and develop machine learning methods that help us model high-dimen
 Date | Paper | Presenter
 --- | --- | ---
 Nov 15, 2024 | [Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?](https://arxiv.org/pdf/2402.06160) | Boyao
-Nov 22, 2024 | TBD | Yuankang
+Nov 22, 2024 | [Causal Transformer for Estimating Counterfactual Outcomes](https://arxiv.org/pdf/2204.07258) | Yuankang
 Nov 29, 2024 | None | THANKSGIVING BREAK
 Dec 6, 2024 | TBD | Elliot
 Dec 13, 2024 | TBD | Zigui
