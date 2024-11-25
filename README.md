@@ -13,7 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Nov 22, 2024 | [Causal Transformer for Estimating Counterfactual Outcomes](https://arxiv.org/pdf/2204.07258) | Yuankang
 Nov 29, 2024 | None | THANKSGIVING BREAK
 Dec 6, 2024 | TBD | Elliot
 Dec 13, 2024 | TBD | Zigui
@@ -22,6 +21,7 @@ Dec 13, 2024 | TBD | Zigui
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Nov 22, 2024 | [Causal Transformer for Estimating Counterfactual Outcomes](https://arxiv.org/pdf/2204.07258) | Yuankang Zhao | [Melnychuk ICML 2022](presentations/melnychuk_icml_2022.pdf)
 Nov 15, 2024 | [Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?](https://arxiv.org/pdf/2402.06160) | Boyao Li | [Shen NeurIPS 2024](presentations/shen_neurips_2024.pdf)
 Nov 8, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine Shen | [Riutort-Mayol 2023](presentations/riutort-mayol_2023.pdf)
 Oct 25, 2024 | [Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning](https://arxiv.org/abs/2206.01558) | Qin Weng | [Charpentier arXiv 2022](presentations/charpentier_arxiv_2022.pdf)
