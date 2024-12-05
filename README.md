@@ -13,9 +13,9 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Nov 29, 2024 | None | THANKSGIVING BREAK
-Dec 6, 2024 | TBD | Elliot
-Dec 13, 2024 | TBD | Zigui
+Dec 6, 2024 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | Elliot
+Dec 13, 2024 | No meeting | NA
+Jan 17, 2025 | TBD | Zigui
 
 ## Past Presentations
 
