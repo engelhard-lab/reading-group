@@ -21,7 +21,7 @@ Feb 14, 2025	| NA | NO SESSION (Matt away)
 Feb 21, 2025	| TBD | Christine
 Feb 28, 2025	| TBD | Aditya
 Mar 7, 2025	| TBD | Yuqi
-Mar 14, 2025	| TBD | SPRING BREAK
+Mar 14, 2025	| NA | SPRING BREAK
 Mar 21, 2025	| TBD | Qin
 Mar 28, 2025	| TBD | Yuankang
 Apr 4, 2025	| NA | CBB RETREAT
