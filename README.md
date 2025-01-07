@@ -14,6 +14,19 @@ To understand and develop machine learning methods that help us model high-dimen
 Date | Paper | Presenter
 --- | --- | ---
 Jan 17, 2025 | [Extending Multi-Modal Contrastive Representations](https://arxiv.org/pdf/2310.08884) | Zigui Wang
+Jan 24, 2025	| TBD | Scott
+Jan 31, 2025	| TBD | Angel
+Feb 7, 2025	| TBD | Mengying
+Feb 14, 2025	| NA | NO SESSION (Matt away)
+Feb 21, 2025	| TBD | Christine
+Feb 28, 2025	| TBD | Aditya
+Mar 7, 2025	| TBD | Yuqi
+Mar 14, 2025	| TBD | SPRING BREAK
+Mar 21, 2025	| TBD | Qin
+Mar 28, 2025	| TBD | Yuankang
+Apr 4, 2025	| NA | CBB RETREAT
+Apr 11, 2025	| TBD | Elliot
+Apr 18, 2025	| TBD | Mian
 
 ## Past Presentations
 
