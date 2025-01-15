@@ -14,19 +14,19 @@ To understand and develop machine learning methods that help us model high-dimen
 Date | Paper | Presenter
 --- | --- | ---
 Jan 17, 2025 | [Extending Multi-Modal Contrastive Representations](https://arxiv.org/pdf/2310.08884) | Zigui Wang
-Jan 24, 2025	| TBD | Scott
-Jan 31, 2025	| TBD | Angel
-Feb 7, 2025	| TBD | Mengying
+Jan 24, 2025	| [Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization](https://proceedings.mlr.press/v202/qiu23a/qiu23a.pdf) | Scott Sun
+Jan 31, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Angel Huang
+Feb 7, 2025	| TBD | Mengying Yan
 Feb 14, 2025	| NA | NO SESSION (Matt away)
-Feb 21, 2025	| TBD | Christine
-Feb 28, 2025	| TBD | Aditya
-Mar 7, 2025	| TBD | Yuqi
+Feb 21, 2025	| TBD | Christine Shen
+Feb 28, 2025	| TBD | Aditya Parekh
+Mar 7, 2025	| TBD | Yuqi Li
 Mar 14, 2025	| NA | SPRING BREAK
-Mar 21, 2025	| TBD | Qin
-Mar 28, 2025	| TBD | Yuankang
+Mar 21, 2025	| TBD | Qin Weng
+Mar 28, 2025	| TBD | Yuankang Zhao
 Apr 4, 2025	| NA | CBB RETREAT
-Apr 11, 2025	| TBD | Elliot
-Apr 18, 2025	| TBD | Mian
+Apr 11, 2025	| TBD | Elliot Hill
+Apr 18, 2025	| TBD | Mian Wei
 
 ## Past Presentations
 
