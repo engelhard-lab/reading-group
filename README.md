@@ -32,7 +32,7 @@ Apr 18, 2025	| TBD | Mian
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
-Dec 6, 2024 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | Elliot Hill | Angelopoulos arXiv 2021
+Dec 6, 2024 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | Elliot Hill | (Angelopoulos arXiv 2021)[presentations/angelopoulos_arxiv_2021.pdf]
 Nov 22, 2024 | [Causal Transformer for Estimating Counterfactual Outcomes](https://arxiv.org/pdf/2204.07258) | Yuankang Zhao | [Melnychuk ICML 2022](presentations/melnychuk_icml_2022.pdf)
 Nov 15, 2024 | [Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?](https://arxiv.org/pdf/2402.06160) | Boyao Li | [Shen NeurIPS 2024](presentations/shen_neurips_2024.pdf)
 Nov 8, 2024 | [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://arxiv.org/pdf/2004.11408) | Christine Shen | [Riutort-Mayol 2023](presentations/riutort-mayol_2023.pdf)
