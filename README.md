@@ -15,8 +15,8 @@ Date | Paper | Presenter
 --- | --- | ---
 Jan 17, 2025 | [Extending Multi-Modal Contrastive Representations](https://arxiv.org/pdf/2310.08884) | Zigui Wang
 Jan 24, 2025	| [Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization](https://proceedings.mlr.press/v202/qiu23a/qiu23a.pdf) | Scott Sun
-Jan 31, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Angel Huang
-Feb 7, 2025	| TBD | Mengying Yan
+Jan 31, 2025	| [Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/papers/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.pdf) | Angel Huang
+Feb 7, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Mengying Yan
 Feb 14, 2025	| NA | NO SESSION (Matt away)
 Feb 21, 2025	| TBD | Christine Shen
 Feb 28, 2025	| TBD | Aditya Parekh
