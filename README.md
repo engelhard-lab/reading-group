@@ -13,12 +13,10 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Jan 17, 2025 | [Extending Multi-Modal Contrastive Representations](https://arxiv.org/pdf/2310.08884) | Zigui Wang
-Jan 24, 2025	| [Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization](https://proceedings.mlr.press/v202/qiu23a/qiu23a.pdf) | Scott Sun
 Jan 31, 2025	| [Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/papers/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.pdf) | Angel Huang
 Feb 7, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Mengying Yan
 Feb 14, 2025	| NA | NO SESSION (Matt away)
-Feb 21, 2025	| TBD | Christine Shen
+Feb 21, 2025	| [Hierarchical Nearest-Neighbor Gaussian Process Models for Large Geostatistical Datasets](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1044091) | Christine Shen
 Feb 28, 2025	| TBD | Aditya Parekh
 Mar 7, 2025	| TBD | Yuqi Li
 Mar 14, 2025	| NA | SPRING BREAK
@@ -32,6 +30,8 @@ Apr 18, 2025	| TBD | Mian Wei
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Jan 24, 2025	| [Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization](https://proceedings.mlr.press/v202/qiu23a/qiu23a.pdf) | Scott Sun | [Qiu ICML 2023](presentations/qiu_icml_2023.pdf)
+Jan 17, 2025 | [Extending Multi-Modal Contrastive Representations](https://arxiv.org/pdf/2310.08884) | Zigui Wang | [Wang NeurIPS 2024](presentations/wang_neurips_2024.pdf)
 Dec 6, 2024 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | Elliot Hill | [Angelopoulos arXiv 2021](presentations/angelopoulos_arxiv_2021.pdf)
 Nov 22, 2024 | [Causal Transformer for Estimating Counterfactual Outcomes](https://arxiv.org/pdf/2204.07258) | Yuankang Zhao | [Melnychuk ICML 2022](presentations/melnychuk_icml_2022.pdf)
 Nov 15, 2024 | [Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?](https://arxiv.org/pdf/2402.06160) | Boyao Li | [Shen NeurIPS 2024](presentations/shen_neurips_2024.pdf)
