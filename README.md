@@ -29,7 +29,7 @@ Apr 18, 2025	| TBD | Mian Wei
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
-Jan 31, 2025	| [Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/papers/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.pdf) | [Angel Huang](presentations/hager_cvpr_2023.pdf)
+Jan 31, 2025	| [Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/papers/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.pdf) | Angel Huang | [Hager CVPR 2023](presentations/hager_cvpr_2023.pdf)
 Jan 24, 2025	| [Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization](https://proceedings.mlr.press/v202/qiu23a/qiu23a.pdf) | Scott Sun | [Qiu ICML 2023](presentations/qiu_icml_2023.pdf)
 Jan 17, 2025 | [Extending Multi-Modal Contrastive Representations](https://arxiv.org/pdf/2310.08884) | Zigui Wang | [Wang NeurIPS 2024](presentations/wang_neurips_2024.pdf)
 Dec 6, 2024 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | Elliot Hill | [Angelopoulos arXiv 2021](presentations/angelopoulos_arxiv_2021.pdf)
