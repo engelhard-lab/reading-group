@@ -13,8 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Feb 7, 2025	| NA | NO SESSION (paper deadlines)
-Feb 14, 2025	| NA | NO SESSION (Matt away)
 Feb 21, 2025	| [Hierarchical Nearest-Neighbor Gaussian Process Models for Large Geostatistical Datasets](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1044091) | Christine Shen
 Feb 28, 2025	| [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformer](https://proceedings.mlr.press/v235/haviv24a.html) | Aditya Parekh
 Mar 7, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Mengying Yan
