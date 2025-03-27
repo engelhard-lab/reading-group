@@ -14,10 +14,10 @@ To understand and develop machine learning methods that help us model high-dimen
 Date | Paper | Presenter
 --- | --- | ---
 Mar 21, 2025	| [Q-Learning with Censored Data](https://arxiv.org/pdf/1205.6659) | Qin Weng
-Mar 28, 2025	| (tentative) [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao
+Mar 28, 2025	| [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao
 Apr 4, 2025	| NA | CBB RETREAT
 Apr 11, 2025	| TBD | Yuqi Li
-Apr 18, 2025	| TBD | Mian Wei
+Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei
 
 ## Past Presentations
 
