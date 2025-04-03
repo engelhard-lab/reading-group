@@ -16,7 +16,7 @@ Date | Paper | Presenter
 Mar 21, 2025	| [Q-Learning with Censored Data](https://arxiv.org/pdf/1205.6659) | Qin Weng
 Mar 28, 2025	| [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao
 Apr 4, 2025	| NA | CBB RETREAT
-Apr 11, 2025	| TBD | Yuqi Li
+Apr 11, 2025	| [From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence](https://arxiv.org/abs/2501.03282) | Yuqi Li
 Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei
 
 ## Past Presentations
