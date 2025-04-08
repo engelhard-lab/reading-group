@@ -13,9 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Mar 21, 2025	| [Q-Learning with Censored Data](https://arxiv.org/pdf/1205.6659) | Qin Weng
-Mar 28, 2025	| [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao
-Apr 4, 2025	| NA | CBB RETREAT
 Apr 11, 2025	| [From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence](https://arxiv.org/abs/2501.03282) | Yuqi Li
 Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei
 
@@ -23,6 +20,8 @@ Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](h
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Mar 28, 2025	| [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao | [Testa ICML 2025](presentations/testa_icml_2025.pdf)
+Mar 21, 2025	| [Q-Learning with Censored Data](https://arxiv.org/pdf/1205.6659) | Qin Weng | [Goldberg AnnStat 2012](presentations/goldberg_annstat_2012.pdf)
 Mar 7, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Mengying Yan | [Mucsányi NeurIPS 2024](presentations/mucsanyi_neurips_2024.pdf)
 Feb 28, 2025 | [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformer](https://proceedings.mlr.press/v235/haviv24a.html) | Aditya Parekh | [Haviv ICML 2024](presentations/haviv_icml_2024.pdf)
 Feb 21, 2025 | [Hierarchical Nearest-Neighbor Gaussian Process Models for Large Geostatistical Datasets](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1044091) | Christine Shen | [Datta JASA 2016](presentations/datta_jasa_2016.pdf)
