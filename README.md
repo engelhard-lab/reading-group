@@ -11,15 +11,19 @@ To understand and develop machine learning methods that help us model high-dimen
 
 ## Upcoming Presentations
 
+Presentations will resume in Fall 2025.
+
 Date | Paper | Presenter
 --- | --- | ---
-Apr 11, 2025	| [From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence](https://arxiv.org/abs/2501.03282) | Yuqi Li
-Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei
+TBD | TBD | TBD
+
 
 ## Past Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei | [Cabezas UAI 2025](presentations/cabezas_uai_2025.pdf)
+Apr 11, 2025	| [From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence](https://arxiv.org/abs/2501.03282) | Yuqi Li | [Wang arXiv 2025](presentations/wang_arxiv_2025.pdf)
 Mar 28, 2025	| [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao | [Testa ICML 2025](presentations/testa_icml_2025.pdf)
 Mar 21, 2025	| [Q-Learning with Censored Data](https://arxiv.org/pdf/1205.6659) | Qin Weng | [Goldberg AnnStat 2012](presentations/goldberg_annstat_2012.pdf)
 Mar 7, 2025	| [Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks](https://arxiv.org/pdf/2402.19460) | Mengying Yan | [Mucsányi NeurIPS 2024](presentations/mucsanyi_neurips_2024.pdf)
