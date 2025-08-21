@@ -15,7 +15,22 @@ Presentations will resume in Fall 2025.
 
 Date | Paper | Presenter
 --- | --- | ---
-TBD | TBD | TBD
+Aug 29, 2025 | Mian Wei | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892)
+Sep 5, 2025 | Scott Sun | [HDT: Hierarchical Document Transformer](https://arxiv.org/pdf/2407.08330)
+Sep 12, 2025 | Yuankang Zhao | TBD
+Sep 19, 2025 | Qin Weng | TBD
+Sep 26, 2025 | Fengnan Li | TBD
+Oct 3, 2025 | Pengxi Liu | TBD
+Oct 10, 2025 | FALL BREAK | NA
+Oct 17, 2025 | Yuqi Li | TBD
+Oct 24, 2025 | Scott Sun | TBD
+Oct 31, 2025 | Yuankang Zhao | TBD
+Nov 7, 2025 | Qin Weng | TBD
+Nov 14, 2025 | Fengnan Li | TBD
+Nov 21, 2025 | THANKSGIVING | NA
+Nov 28, 2025 | Pengxi Liu | TBD
+Dec 5, 2025 | Yuqi Li | TBD
+Dec 12, 2025 | TBD | TBD
 
 
 ## Past Presentations
