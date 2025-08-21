@@ -11,8 +11,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 ## Upcoming Presentations
 
-Presentations will resume in Fall 2025.
-
 Date | Paper | Presenter
 --- | --- | ---
 Aug 29, 2025 | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892) | Mian Wei
@@ -22,7 +20,7 @@ Sep 19, 2025 | TBD | Qin Weng
 Sep 26, 2025 | TBD | Fengnan Li
 Oct 3, 2025 | TBD | Pengxi Liu
 Oct 10, 2025 | NA | FALL BREAK
-Oct 17, 2025 | TBD | | Yuqi Li
+Oct 17, 2025 | TBD | Yuqi Li
 Oct 24, 2025 | TBD | Scott Sun
 Oct 31, 2025 | TBD | Yuankang Zhao
 Nov 7, 2025 | TBD | Qin Weng
