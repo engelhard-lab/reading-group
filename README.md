@@ -15,7 +15,7 @@ Date | Paper | Presenter
 --- | --- | ---
 Aug 29, 2025 | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892) | Mian Wei
 Sep 5, 2025 | [HDT: Hierarchical Document Transformer](https://arxiv.org/pdf/2407.08330) | Scott Sun
-Sep 12, 2025 | TBD | Yuankang Zhao
+Sep 12, 2025 | [Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://proceedings.mlr.press/v206/sharma23a/sharma23a.pdf) | Yuankang Zhao
 Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng
 Sep 26, 2025 | TBD | Fengnan Li
 Oct 3, 2025 | TBD | Pengxi Liu
