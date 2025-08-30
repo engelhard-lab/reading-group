@@ -13,7 +13,6 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Aug 29, 2025 | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892) | Mian Wei
 Sep 5, 2025 | [HDT: Hierarchical Document Transformer](https://arxiv.org/pdf/2407.08330) | Scott Sun
 Sep 12, 2025 | [Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://proceedings.mlr.press/v206/sharma23a/sharma23a.pdf) | Yuankang Zhao
 Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng
@@ -35,6 +34,7 @@ Dec 12, 2025 | TBD | TBD
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Aug 29, 2025 | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892) | Mian Wei | [Smith ICML 2025](presentations/smith_icml_2025.pdf)
 Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei | [Cabezas UAI 2025](presentations/cabezas_uai_2025.pdf)
 Apr 11, 2025	| [From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence](https://arxiv.org/abs/2501.03282) | Yuqi Li | [Wang arXiv 2025](presentations/wang_arxiv_2025.pdf)
 Mar 28, 2025	| [Doubly-Robust Functional Average Treatment Effect Estimation](https://arxiv.org/abs/2501.06024) | Yuankang Zhao | [Testa ICML 2025](presentations/testa_icml_2025.pdf)
