@@ -13,11 +13,10 @@ To understand and develop machine learning methods that help us model high-dimen
 
 Date | Paper | Presenter
 --- | --- | ---
-Sep 5, 2025 | [HDT: Hierarchical Document Transformer](https://arxiv.org/pdf/2407.08330) | Scott Sun
-Sep 12, 2025 | [Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://proceedings.mlr.press/v206/sharma23a/sharma23a.pdf) | Yuankang Zhao
 Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng
 Sep 26, 2025 | TBD | Fengnan Li
-Oct 3, 2025 | TBD | Pengxi Liu
+Oct 3, 2025 | [Understanding and Improving Training-free Loss-based Diffusion Guidance
+](https://proceedings.neurips.cc/paper_files/paper/2024/file/c4edc5113b4ffd4632718558fb66b9ef-Paper-Conference.pdf) | Pengxi Liu
 Oct 10, 2025 | NA | FALL BREAK
 Oct 17, 2025 | TBD | Yuqi Li
 Oct 24, 2025 | TBD | Scott Sun
@@ -34,6 +33,8 @@ Dec 12, 2025 | TBD | TBD
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Sep 12, 2025 | [Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://proceedings.mlr.press/v206/sharma23a/sharma23a.pdf) | Yuankang Zhao | [Sharma AISTATS 2023](presentations/sharma_aistats_2023.pdf)
+Sep 5, 2025 | [HDT: Hierarchical Document Transformer](https://arxiv.org/pdf/2407.08330) | Scott Sun | [He COLM 2024](presentations/he_colm_2024.pdf)
 Aug 29, 2025 | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892) | Mian Wei | [Smith ICML 2025](presentations/smith_icml_2025.pdf)
 Apr 18, 2025	| [Epistemic Uncertainty in Conformal Scores: A Unified Approach](https://arxiv.org/pdf/2502.06995) | Mian Wei | [Cabezas UAI 2025](presentations/cabezas_uai_2025.pdf)
 Apr 11, 2025	| [From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence](https://arxiv.org/abs/2501.03282) | Yuqi Li | [Wang arXiv 2025](presentations/wang_arxiv_2025.pdf)
