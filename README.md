@@ -14,7 +14,7 @@ To understand and develop machine learning methods that help us model high-dimen
 Date | Paper | Presenter
 --- | --- | ---
 Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng
-Sep 26, 2025 | TBD | Fengnan Li
+Sep 26, 2025 | [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://aclanthology.org/2025.acl-long.1126.pdf) | Fengnan Li
 Oct 3, 2025 | [Understanding and Improving Training-free Loss-based Diffusion Guidance](https://proceedings.neurips.cc/paper_files/paper/2024/file/c4edc5113b4ffd4632718558fb66b9ef-Paper-Conference.pdf) | Pengxi Liu
 Oct 10, 2025 | NA | FALL BREAK
 Oct 17, 2025 | TBD | Yuqi Li
