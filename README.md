@@ -19,8 +19,8 @@ Oct 24, 2025 | TBD | Scott Sun
 Oct 31, 2025 | TBD | Yuqi Li
 Nov 7, 2025 | TBD | Qin Weng
 Nov 14, 2025 | TBD | Fengnan Li
-Nov 21, 2025 | NA | THANKSGIVING
-Nov 28, 2025 | TBD | Pengxi Liu
+Nov 21, 2025 | TBD | Pengxi Liu
+Nov 28, 2025 | NA | THANKSGIVING
 Dec 5, 2025 | TBD | Yuqi Li
 Dec 12, 2025 | TBD | TBD
 
