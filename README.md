@@ -9,36 +9,20 @@ To understand and develop AI methods relevant to longitudinal clinical decision 
 - Presentation guidelines are [here](presentation_template.pdf)
 - The guidelines can also be used as a presentation template ([source](presentation_template.tex))
 
-## Upcoming Reading Group Presentations
+## Upcoming Presentations
 
-Date | Paper | Presenter
---- | --- | ---
-Oct 10, 2025 | NA | FALL BREAK
-Oct 17, 2025 | TBD | Yuankang Zhao
-Oct 24, 2025 | TBD | Scott Sun
-Oct 31, 2025 | TBD | Yuqi Li
-Nov 7, 2025 | TBD | Qin Weng
-Nov 14, 2025 | TBD | Fengnan Li
-Nov 21, 2025 | TBD | Pengxi Liu
-Nov 28, 2025 | NA | THANKSGIVING
-Dec 5, 2025 | TBD | Yuqi Li
-Dec 12, 2025 | TBD | TBD
-
-
-## Upcoming Lab Presentations
-
-Date | Presenter
---- | ---
-Oct 10, 2025 | FALL BREAK
-Oct 17, 2025 | Scott Sun
-Oct 24, 2025 | Julia Shoobe & Roshni Varma
-Oct 31, 2025 | Fengnan Li & Heman Burre
-Nov 7, 2025 | Pengxi Li
-Nov 14, 2025 | Max Freitas
-Nov 21, 2025 | Liwen Sun
-Nov 28, 2025 | THANKSGIVING
-Dec 5, 2025 | TBD
-Dec 12, 2025 | TBD
+Date | Paper | Reading Group Presenter | Research Presenter
+--- | --- | --- | ---
+Oct 10, 2025 | NA | FALL BREAK | NA
+Oct 17, 2025 | TBD | Yuankang Zhao | Scott Sun
+Oct 24, 2025 | TBD | Scott Sun | Julia Shoobe & Roshni Varma
+Oct 31, 2025 | TBD | Yuqi Li | Fengnan Li & Heman Burre
+Nov 7, 2025 | TBD | Qin Weng | Pengxi Li
+Nov 14, 2025 | TBD | Fengnan Li | Max Freitas
+Nov 21, 2025 | TBD | Pengxi Liu | Liwen Sun
+Nov 28, 2025 | NA | THANKSGIVING | NA
+Dec 5, 2025 | TBD | Yuqi Li | TBD
+Dec 12, 2025 | TBD | TBD | TBD
 
 
 ## Past Reading Group Presentations
