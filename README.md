@@ -1,15 +1,15 @@
-# ML in Practice Reading Group
+# Engelhard Lab Reading Group
 *PI Matthew Engelhard*
 
 ## Purpose
-To understand and develop machine learning methods that help us model high-dimensional clinical data to support clinical practice.
+To understand and develop AI methods relevant to longitudinal clinical decision support systems
 
 ## Format
 - ~30 minute presentation + ~30 minutes for questions, discussion, and brainstorming
 - Presentation guidelines are [here](presentation_template.pdf)
 - The guidelines can also be used as a presentation template ([source](presentation_template.tex))
 
-## Upcoming Presentations
+## Upcoming Reading Group Presentations
 
 Date | Paper | Presenter
 --- | --- | ---
@@ -25,7 +25,23 @@ Dec 5, 2025 | TBD | Yuqi Li
 Dec 12, 2025 | TBD | TBD
 
 
-## Past Presentations
+## Upcoming Lab Presentations
+
+Date | Presenter
+--- | ---
+Oct 10, 2025 | FALL BREAK
+Oct 17, 2025 | Scott Sun
+Oct 24, 2025 | Julia Shoobe & Roshni Varma
+Oct 31, 2025 | Fengnan Li & Heman Burre
+Nov 7, 2025 | Pengxi Li
+Nov 14, 2025 | Max Freitas
+Nov 21, 2025 | Liwen Sun
+Nov 28, 2025 | THANKSGIVING
+Dec 5, 2025 | TBD
+Dec 12, 2025 | TBD
+
+
+## Past Reading Group Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
