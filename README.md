@@ -13,7 +13,7 @@ To understand and develop AI methods relevant to longitudinal clinical decision 
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Oct 17, 2025 | [Integrating Random Effects in Deep Neural Networks](https://www.jmlr.org/papers/v24/22-0501.html)] | Yuankang Zhao | Scott Sun
+Oct 17, 2025 | [Integrating Random Effects in Deep Neural Networks](https://www.jmlr.org/papers/v24/22-0501.html) | Yuankang Zhao | Scott Sun
 Oct 24, 2025 | TBD | Scott Sun | Julia Shoobe & Roshni Varma
 Oct 31, 2025 | TBD | Yuqi Li | Fengnan Li & Heman Burre
 Nov 7, 2025 | TBD | Qin Weng | Pengxi Li
