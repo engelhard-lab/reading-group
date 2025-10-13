@@ -13,8 +13,7 @@ To understand and develop AI methods relevant to longitudinal clinical decision 
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Oct 10, 2025 | NA | FALL BREAK | NA
-Oct 17, 2025 | TBD | Yuankang Zhao | Scott Sun
+Oct 17, 2025 | [Integrating Random Effects in Deep Neural Networks](https://www.jmlr.org/papers/v24/22-0501.html)] | Yuankang Zhao | Scott Sun
 Oct 24, 2025 | TBD | Scott Sun | Julia Shoobe & Roshni Varma
 Oct 31, 2025 | TBD | Yuqi Li | Fengnan Li & Heman Burre
 Nov 7, 2025 | TBD | Qin Weng | Pengxi Li
@@ -30,8 +29,8 @@ Dec 12, 2025 | TBD | Liwen Sun | TBD
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
 Oct 3, 2025 | [Understanding and Improving Training-free Loss-based Diffusion Guidance](https://proceedings.neurips.cc/paper_files/paper/2024/file/c4edc5113b4ffd4632718558fb66b9ef-Paper-Conference.pdf) | Pengxi Liu | [Shen NeurIPS 2024](presentations/shen_neurips_2024_b.pdf)
-Sep 26, 2025 | [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://aclanthology.org/2025.acl-long.1126.pdf) | Fengnan Li | To be added
-Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng | To be added
+Sep 26, 2025 | [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://aclanthology.org/2025.acl-long.1126.pdf) | Fengnan Li | [Yuan ACL 2025](presentations/yuan_acl_2025.pdf)
+Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng | [Guney ICML 2025](presentations/guney_icml_2025.pdf)
 Sep 12, 2025 | [Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://proceedings.mlr.press/v206/sharma23a/sharma23a.pdf) | Yuankang Zhao | [Sharma AISTATS 2023](presentations/sharma_aistats_2023.pdf)
 Sep 5, 2025 | [HDT: Hierarchical Document Transformer](https://arxiv.org/pdf/2407.08330) | Scott Sun | [He COLM 2024](presentations/he_colm_2024.pdf)
 Aug 29, 2025 | [Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892) | Mian Wei | [Smith ICML 2025](presentations/smith_icml_2025.pdf)
