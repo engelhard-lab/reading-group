@@ -22,7 +22,7 @@ Nov 14, 2025 | TBD | Fengnan Li | Max Freitas
 Nov 21, 2025 | TBD | Pengxi Liu | Liwen Sun
 Nov 28, 2025 | NA | THANKSGIVING | NA
 Dec 5, 2025 | TBD | Yuqi Li | TBD
-Dec 12, 2025 | TBD | TBD | TBD
+Dec 12, 2025 | TBD | Liwen Sun | TBD
 
 
 ## Past Reading Group Presentations
