@@ -13,9 +13,7 @@ To understand and develop AI methods relevant to longitudinal clinical decision 
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Oct 17, 2025 | [Integrating Random Effects in Deep Neural Networks](https://www.jmlr.org/papers/v24/22-0501.html) | Yuankang Zhao | Scott Sun
-Oct 24, 2025 | [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/pdf/2303.00848) | Scott Sun | Julia Shoobe & Roshni Varma
-Oct 31, 2025 | TBD | Yuqi Li | Fengnan Li & Heman Burre
+Oct 31, 2025 | [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/pdf/2405.06627) | Yuqi Li | Fengnan Li & Heman Burre
 Nov 7, 2025 | TBD | Qin Weng | Pengxi Li
 Nov 14, 2025 | TBD | Fengnan Li | Max Freitas
 Nov 21, 2025 | TBD | Pengxi Liu | Liwen Sun
@@ -28,6 +26,8 @@ Dec 12, 2025 | TBD | Liwen Sun | TBD
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 24, 2025 | [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/pdf/2303.00848) | Scott Sun | [Kingma NeurIPS 2023](presentations/kingma_neurips_2023.pdf)
+Oct 17, 2025 | [Integrating Random Effects in Deep Neural Networks](https://www.jmlr.org/papers/v24/22-0501.html) | Yuankang Zhao | [Simchoni JMLR 2023](presentations/simchoni_jmlr_2023.pdf)
 Oct 3, 2025 | [Understanding and Improving Training-free Loss-based Diffusion Guidance](https://proceedings.neurips.cc/paper_files/paper/2024/file/c4edc5113b4ffd4632718558fb66b9ef-Paper-Conference.pdf) | Pengxi Liu | [Shen NeurIPS 2024](presentations/shen_neurips_2024_b.pdf)
 Sep 26, 2025 | [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://aclanthology.org/2025.acl-long.1126.pdf) | Fengnan Li | [Yuan ACL 2025](presentations/yuan_acl_2025.pdf)
 Sep 19, 2025 | [Active Feature Acquisition Via Explainability-driven Ranking](https://openreview.net/pdf?id=J8YRdm39jn) | Qin Weng | [Guney ICML 2025](presentations/guney_icml_2025.pdf)
