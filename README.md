@@ -18,7 +18,7 @@ Nov 7, 2025 | [Constrained decision transformer for offline safe reinforcement l
 Nov 14, 2025 | TBD | Fengnan Li | Max Freitas
 Nov 21, 2025 | TBD | Pengxi Liu | Liwen Sun
 Nov 28, 2025 | NA | THANKSGIVING | NA
-Dec 5, 2025 | TBD | Yuqi Li | TBD
+Dec 5, 2025 | TBD | Yuqi Li | Mian Wei & Jimin Xu
 Dec 12, 2025 | TBD | Liwen Sun | TBD
 
 
