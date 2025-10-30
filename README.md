@@ -14,7 +14,7 @@ To understand and develop AI methods relevant to longitudinal clinical decision 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Oct 31, 2025 | [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/pdf/2405.06627) | Yuqi Li | Fengnan Li & Heman Burre
-Nov 7, 2025 | TBD | Qin Weng | Pengxi Li
+Nov 7, 2025 | [Constrained decision transformer for offline safe reinforcement learning](https://proceedings.mlr.press/v202/liu23m.html) | Qin Weng | Pengxi Li
 Nov 14, 2025 | TBD | Fengnan Li | Max Freitas
 Nov 21, 2025 | TBD | Pengxi Liu | Liwen Sun
 Nov 28, 2025 | NA | THANKSGIVING | NA
