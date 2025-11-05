@@ -15,8 +15,8 @@ Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Oct 31, 2025 | [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/pdf/2405.06627) | Yuqi Li | Fengnan Li & Heman Burre
 Nov 7, 2025 | [Constrained decision transformer for offline safe reinforcement learning](https://proceedings.mlr.press/v202/liu23m.html) | Qin Weng | Pengxi Li
-Nov 14, 2025 | TBD | Fengnan Li | Max Freitas
-Nov 21, 2025 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | Pengxi Liu | Liwen Sun
+Nov 14, 2025 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | Pengxi Liu | Max Freitas
+Nov 21, 2025 | [Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models](https://arxiv.org/pdf/2405.14297) | Fengnan Li | Liwen Sun
 Nov 28, 2025 | NA | THANKSGIVING | NA
 Dec 5, 2025 | TBD | Yuqi Li | Mian Wei & Jimin Xu
 Dec 12, 2025 | TBD | Liwen Sun | TBD
