@@ -13,24 +13,23 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Dec 5, 2025 | TBD | Yuqi Li | Mian Wei & Jimin Xu
-Dec 12, 2025 | TBD | Liwen Sun | TBD
-Jan 9, 2026 | TBD | Pengxi Liu | TBD
-Jan 16, 2026 | TBD | Yuangkang Zhao | TBD
-Jan 23, 2026 | TBD | Fengnan Li | TBD
-Jan 30, 2026 | TBD | Qin Weng | TBD
-Feb 6, 2026 | TBD | Liwen Sun | TBD
-Feb 13, 2026 | TBD | Scott Sun | TBD
-Feb 20, 2026 | TBD | Yuqi Li | TBD
-Feb 27, 2026 | TBD | Pengxi Liu | TBD
-Mar 6, 2026 | TBD | Yuangkang Zhao | TBD
+Dec 12, 2025 | TBD | Liwen Sun | Yuqi Li
+Jan 9, 2026 | TBD | Pengxi Liu | Scott Sun & Allen Gao
+Jan 16, 2026 | TBD | Yuangkang Zhao | Qin Weng
+Jan 23, 2026 | TBD | Fengnan Li | Arda Mert
+Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
+Feb 6, 2026 | TBD | Liwen Sun | Pengxi Liu
+Feb 13, 2026 | TBD | Scott Sun | Heman Burre
+Feb 20, 2026 | TBD | Yuqi Li | Scott Sun and Haoyu Gong
+Feb 27, 2026 | TBD | Pengxi Liu | Roshni Varma & Julia Shoobe
+Mar 6, 2026 | TBD | Yuangkang Zhao | Mai Li & Wei Ding
 Mar 13, 2026 | TBD | SPRING BREAK | NA
-Mar 20, 2026 | TBD | Fengnan Li | TBD
-Mar 27, 2026 | TBD | Qin Weng | TBD
-Apr 3, 2026 | TBD | Liwen Sun | TBD
-Apr 10, 2026 | TBD | Scott Sun | TBD
-Apr 17, 2026 | TBD | Yuqi Li | TBD
-Apr 24, 2026 | TBD | TBD | TBD
-
+Mar 20, 2026 | TBD | Fengnan Li | Yuankang Zhao
+Mar 27, 2026 | TBD | Qin Weng | Jimin Xu & Mian Wei
+Apr 3, 2026 | TBD | Liwen Sun | Fengnan Li
+Apr 10, 2026 | TBD | Scott Sun | Yuqi Li
+Apr 17, 2026 | TBD | Yuqi Li | Matthew Xie
+Apr 24, 2026 | TBD | TBD | Yuankang Zhao
 
 ## Past Reading Group Presentations
 
