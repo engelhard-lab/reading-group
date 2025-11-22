@@ -13,19 +13,34 @@ To understand and develop AI methods relevant to longitudinal clinical decision 
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Oct 31, 2025 | [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/pdf/2405.06627) | Yuqi Li | Fengnan Li & Heman Burre
-Nov 7, 2025 | [Constrained decision transformer for offline safe reinforcement learning](https://proceedings.mlr.press/v202/liu23m.html) | Qin Weng | Pengxi Li
-Nov 14, 2025 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | Pengxi Liu | Max Freitas
-Nov 21, 2025 | [Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models](https://arxiv.org/pdf/2405.14297) | Fengnan Li | Liwen Sun
-Nov 28, 2025 | NA | THANKSGIVING | NA
 Dec 5, 2025 | TBD | Yuqi Li | Mian Wei & Jimin Xu
 Dec 12, 2025 | TBD | Liwen Sun | TBD
+Jan 9, 2026 | TBD | Pengxi Li | TBD
+Jan 16, 2026 | TBD | Yuangkang Zhao | TBD
+Jan 23, 2026 | TBD | Fengnan Li | TBD
+Jan 30, 2026 | TBD | Qin Weng | TBD
+Feb 6, 2026 | TBD | Liwen Sun | TBD
+Feb 13, 2026 | TBD | Scott Sun | TBD
+Feb 20, 2026 | TBD | Yuqi Li | TBD
+Feb 27, 2026 | TBD | Pengxi Li | TBD
+Mar 6, 2026 | TBD | Yuangkang Zhao | TBD
+Mar 13, 2026 | TBD | SPRING BREAK | NA
+Mar 20, 2026 | TBD | Fengnan Li | TBD
+Mar 27, 2026 | TBD | Qin Weng | TBD
+Apr 3, 2026 | TBD | Liwen Sun | TBD
+Apr 10, 2026 | TBD | Scott Sun | TBD
+Apr 17, 2026 | TBD | Yuqi Li | TBD
+Apr 24, 2026 | TBD | TBD | TBD
 
 
 ## Past Reading Group Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Nov 21, 2025 | [Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models](https://arxiv.org/pdf/2405.14297) | Fengnan Li | [Guo ICLR 2025](presentations/guo_iclr_2025.pdf)
+Nov 14, 2025 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | Pengxi Liu | [Li CVPR 2025](presentations/li_cvpr_2025.pdf)
+Nov 7, 2025 | [Constrained decision transformer for offline safe reinforcement learning](https://proceedings.mlr.press/v202/liu23m.html) | Qin Weng | [Liu ICML 2023](presentations/liu_icml_2023.pdf)
+Oct 31, 2025 | [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/pdf/2405.06627) | Yuqi Li | [Prinster ICML 2024](presentations/prinster_icml_2024.pdf)
 Oct 24, 2025 | [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/pdf/2303.00848) | Scott Sun | [Kingma NeurIPS 2023](presentations/kingma_neurips_2023.pdf)
 Oct 17, 2025 | [Integrating Random Effects in Deep Neural Networks](https://www.jmlr.org/papers/v24/22-0501.html) | Yuankang Zhao | [Simchoni JMLR 2023](presentations/simchoni_jmlr_2023.pdf)
 Oct 3, 2025 | [Understanding and Improving Training-free Loss-based Diffusion Guidance](https://proceedings.neurips.cc/paper_files/paper/2024/file/c4edc5113b4ffd4632718558fb66b9ef-Paper-Conference.pdf) | Pengxi Liu | [Shen NeurIPS 2024](presentations/shen_neurips_2024_b.pdf)
