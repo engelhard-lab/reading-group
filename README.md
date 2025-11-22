@@ -1,5 +1,4 @@
 # Engelhard Lab Reading Group
-*PI Matthew Engelhard*
 
 ## Purpose
 To understand and develop AI methods for longitudinal multi-modal data and clinical decision support
