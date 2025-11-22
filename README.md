@@ -2,7 +2,7 @@
 *PI Matthew Engelhard*
 
 ## Purpose
-To understand and develop AI methods relevant to longitudinal clinical decision support systems
+To understand and develop AI methods for longitudinal multi-modal data and clinical decision support
 
 ## Format
 - ~40 minute presentation + ~20 minutes for questions, discussion, and brainstorming
