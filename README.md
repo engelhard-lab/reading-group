@@ -5,7 +5,7 @@
 To understand and develop AI methods relevant to longitudinal clinical decision support systems
 
 ## Format
-- ~30 minute presentation + ~30 minutes for questions, discussion, and brainstorming
+- ~40 minute presentation + ~20 minutes for questions, discussion, and brainstorming
 - Presentation guidelines are [here](presentation_template.pdf)
 - The guidelines can also be used as a presentation template ([source](presentation_template.tex))
 
