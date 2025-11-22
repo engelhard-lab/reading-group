@@ -15,14 +15,14 @@ Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Dec 5, 2025 | TBD | Yuqi Li | Mian Wei & Jimin Xu
 Dec 12, 2025 | TBD | Liwen Sun | TBD
-Jan 9, 2026 | TBD | Pengxi Li | TBD
+Jan 9, 2026 | TBD | Pengxi Liu | TBD
 Jan 16, 2026 | TBD | Yuangkang Zhao | TBD
 Jan 23, 2026 | TBD | Fengnan Li | TBD
 Jan 30, 2026 | TBD | Qin Weng | TBD
 Feb 6, 2026 | TBD | Liwen Sun | TBD
 Feb 13, 2026 | TBD | Scott Sun | TBD
 Feb 20, 2026 | TBD | Yuqi Li | TBD
-Feb 27, 2026 | TBD | Pengxi Li | TBD
+Feb 27, 2026 | TBD | Pengxi Liu | TBD
 Mar 6, 2026 | TBD | Yuangkang Zhao | TBD
 Mar 13, 2026 | TBD | SPRING BREAK | NA
 Mar 20, 2026 | TBD | Fengnan Li | TBD
