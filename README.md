@@ -21,7 +21,7 @@ Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
 Feb 6, 2026 | TBD | Liwen Sun | Pengxi Liu
 Feb 13, 2026 | TBD | Scott Sun | Heman Burre
 Feb 20, 2026 | TBD | Yuqi Li | Scott Sun and Haoyu Gong
-Feb 27, 2026 | TBD | Haoyu Gong | Roshni Varma & Julia Shoobe
+Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | Roshni Varma & Julia Shoobe
 Mar 6, 2026 | TBD | Yuangkang Zhao | Mai Li & Wei Ding
 Mar 13, 2026 | TBD | SPRING BREAK | NA
 Mar 20, 2026 | TBD | Pengxi Liu | Yuankang Zhao
