@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Dec 5, 2025 | TBD | Yuqi Li | Mian Wei & Jimin Xu
+Dec 5, 2025 | [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html) | Yuqi Li | Mian Wei & Jimin Xu
 Dec 12, 2025 | TBD | Liwen Sun | Yuqi Li
 Jan 9, 2026 | TBD | Pengxi Liu | Scott Sun & Allen Gao
 Jan 16, 2026 | TBD | Yuangkang Zhao | Qin Weng
