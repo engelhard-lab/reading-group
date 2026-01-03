@@ -13,10 +13,10 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Jan 9, 2026 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/pdf/2410.17891) | Pengxi Liu | Scott Sun & Allen Gao
-Jan 16, 2026 | TBD | Yuangkang Zhao | Qin Weng
+Jan 16, 2026 | TBD | Liwen Sun | Qin Weng
 Jan 23, 2026 | TBD | Fengnan Li | Arda Mert
 Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
-Feb 6, 2026 | TBD | Liwen Sun | Pengxi Liu
+Feb 6, 2026 | TBD | Yuangkang Zhao | Pengxi Liu
 Feb 13, 2026 | TBD | Scott Sun | Heman Burre
 Feb 20, 2026 | TBD | Yuqi Li | Scott Sun and Haoyu Gong
 Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | Roshni Varma & Julia Shoobe
