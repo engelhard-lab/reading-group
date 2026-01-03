@@ -12,9 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Dec 5, 2025 | [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html) | Yuqi Li | Mian Wei & Jimin Xu
-Dec 12, 2025 | [Progress Reward Model for Reinforcement Learning via Large Language Models](https://openreview.net/pdf?id=TJhHb6CscW) | Liwen Sun | Yuqi Li
-Jan 9, 2026 | TBD | Pengxi Liu | Scott Sun & Allen Gao
+Jan 9, 2026 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/pdf/2410.17891) | Pengxi Liu | Scott Sun & Allen Gao
 Jan 16, 2026 | TBD | Yuangkang Zhao | Qin Weng
 Jan 23, 2026 | TBD | Fengnan Li | Arda Mert
 Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
@@ -35,6 +33,8 @@ Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Dec 12, 2025 | [Progress Reward Model for Reinforcement Learning via Large Language Models](https://openreview.net/pdf?id=TJhHb6CscW) | Liwen Sun | [Zhang NeurIPS 2025](presentations/zhang_neurips_2025.pdf)
+Dec 5, 2025 | [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html) | Yuqi Li | [Wang NeurIPS 2024](presentations/wang_neurips_2024.pdf)
 Nov 21, 2025 | [Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models](https://arxiv.org/pdf/2405.14297) | Fengnan Li | [Guo ICLR 2025](presentations/guo_iclr_2025.pdf)
 Nov 14, 2025 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | Pengxi Liu | [Li CVPR 2025](presentations/li_cvpr_2025.pdf)
 Nov 7, 2025 | [Constrained decision transformer for offline safe reinforcement learning](https://proceedings.mlr.press/v202/liu23m.html) | Qin Weng | [Liu ICML 2023](presentations/liu_icml_2023.pdf)
