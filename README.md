@@ -12,7 +12,6 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Jan 9, 2026 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/pdf/2410.17891) | Pengxi Liu | Scott Sun & Allen Gao
 Jan 16, 2026 | TBD | Liwen Sun | Qin Weng
 Jan 23, 2026 | TBD | Fengnan Li | Arda Mert
 Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
@@ -33,6 +32,7 @@ Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Jan 9, 2026 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/pdf/2410.17891) | Pengxi Liu | [Gong ICLR 2025](presentations/gong_iclr_2025.pdf)
 Dec 12, 2025 | [Progress Reward Model for Reinforcement Learning via Large Language Models](https://openreview.net/pdf?id=TJhHb6CscW) | Liwen Sun | [Zhang NeurIPS 2025](presentations/zhang_neurips_2025.pdf)
 Dec 5, 2025 | [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html) | Yuqi Li | [Wang NeurIPS 2024](presentations/wang_neurips_2024b.pdf)
 Nov 21, 2025 | [Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models](https://arxiv.org/pdf/2405.14297) | Fengnan Li | [Guo ICLR 2025](presentations/guo_iclr_2025.pdf)
