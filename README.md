@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Jan 16, 2026 | TBD | Liwen Sun | Qin Weng
+Jan 16, 2026 | [Process-Supervised Reward Models for Verifying Clinical Note Generation: A Scalable Approach Guided by Domain Expertise](https://aclanthology.org/2025.emnlp-main.967.pdf) | Liwen Sun | Qin Weng
 Jan 23, 2026 | [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://openreview.net/pdf?id=1b7whO4SfY) | Fengnan Li | Arda Mert
 Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
 Feb 6, 2026 | TBD | Yuangkang Zhao | Pengxi Liu
