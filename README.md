@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Jan 30, 2026 | [Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/29906cbd165b78991da2c4dbabc2a04b-Paper-Conference.pdf)] | Qin Weng | Cindy Gao & Roshni Varma
+Jan 30, 2026 | [Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/29906cbd165b78991da2c4dbabc2a04b-Paper-Conference.pdf) | Qin Weng | Cindy Gao & Roshni Varma
 Feb 6, 2026 | TBD | Yuangkang Zhao | Pengxi Liu
 Feb 13, 2026 | TBD | Scott Sun | Heman Burre
 Feb 20, 2026 | TBD | Yuqi Li | Scott Sun and Haoyu Gong
