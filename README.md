@@ -12,9 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Jan 16, 2026 | [Process-Supervised Reward Models for Verifying Clinical Note Generation: A Scalable Approach Guided by Domain Expertise](https://aclanthology.org/2025.emnlp-main.967.pdf) | Liwen Sun | Qin Weng
-Jan 23, 2026 | [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://openreview.net/pdf?id=1b7whO4SfY) | Fengnan Li | Arda Mert
-Jan 30, 2026 | TBD | Qin Weng | Cindy Gao & Roshni Varma
+Jan 30, 2026 | [Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/29906cbd165b78991da2c4dbabc2a04b-Paper-Conference.pdf)] | Qin Weng | Cindy Gao & Roshni Varma
 Feb 6, 2026 | TBD | Yuangkang Zhao | Pengxi Liu
 Feb 13, 2026 | TBD | Scott Sun | Heman Burre
 Feb 20, 2026 | TBD | Yuqi Li | Scott Sun and Haoyu Gong
@@ -32,6 +30,8 @@ Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Jan 23, 2026 | [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://openreview.net/pdf?id=1b7whO4SfY) | Fengnan Li | [Qiu NeurIPS 2025](presentations/qiu_neurips_2025.pdf)
+Jan 16, 2026 | [Process-Supervised Reward Models for Verifying Clinical Note Generation: A Scalable Approach Guided by Domain Expertise](https://aclanthology.org/2025.emnlp-main.967.pdf) | Liwen Sun | [Wang EMNLP 2025](presentations/wang_emnlp_2025.pdf)
 Jan 9, 2026 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/pdf/2410.17891) | Pengxi Liu | [Gong ICLR 2025](presentations/gong_iclr_2025.pdf)
 Dec 12, 2025 | [Progress Reward Model for Reinforcement Learning via Large Language Models](https://openreview.net/pdf?id=TJhHb6CscW) | Liwen Sun | [Zhang NeurIPS 2025](presentations/zhang_neurips_2025.pdf)
 Dec 5, 2025 | [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html) | Yuqi Li | [Wang NeurIPS 2024](presentations/wang_neurips_2024b.pdf)
