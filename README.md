@@ -26,7 +26,7 @@ Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
-Feb 20, 2026 | [Clarifying causal mediation analysis for the applied researcher: Defining effects based on what we want to learn](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496983/) | Yuqi Li | [Nguyen 2022](presentations/nguyen_2022.pdf)
+Feb 20, 2026 | [Clarifying causal mediation analysis for the applied researcher: Defining effects based on what we want to learn](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496983/) | Yuqi Li | [Nguyen 2021](presentations/nguyen_2021.pdf)
 Feb 13, 2026 | [DEIM: DETR with Improved Matching for Fast Convergence](https://arxiv.org/pdf/2412.04234) | Scott Sun | [Huang CVPR 2025](presentations/huang_cvpr_2025.pdf)
 Feb 6, 2026 | [Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers](https://openreview.net/forum?id=WOFspd4lq5) | Yuangkang Zhao | [Bouchard TMLR 2025](presentations/bouchard_tmlr_2025.pdf)
 Jan 30, 2026 | [Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/29906cbd165b78991da2c4dbabc2a04b-Paper-Conference.pdf) | Qin Weng | [Yao NeurIPS 2023](presentations/yao_neurips_2023.pdf)
