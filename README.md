@@ -13,7 +13,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | Roshni Varma & Julia Shoobe
-Mar 6, 2026 | TBD | Yuangkang Zhao | Mai Li & Wei Ding
+Mar 6, 2026 | [Do Bayesian Neural Networks Actually Behave like Bayesian Models?](https://proceedings.mlr.press/v267/pituk25a.html) | Yuangkang Zhao | Mai Li & Wei Ding
 Mar 13, 2026 | TBD | SPRING BREAK | NA
 Mar 20, 2026 | TBD | Pengxi Liu | Yuankang Zhao
 Mar 27, 2026 | TBD | Fengnan Li | Jimin Xu & Mian Wei
