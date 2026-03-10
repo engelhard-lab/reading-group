@@ -12,8 +12,6 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | Roshni Varma & Julia Shoobe
-Mar 6, 2026 | [Do Bayesian Neural Networks Actually Behave like Bayesian Models?](https://proceedings.mlr.press/v267/pituk25a.html) | Yuangkang Zhao | Mai Li & Wei Ding
 Mar 13, 2026 | TBD | SPRING BREAK | NA
 Mar 20, 2026 | TBD | Pengxi Liu | Yuankang Zhao
 Mar 27, 2026 | TBD | Fengnan Li | Jimin Xu & Mian Wei
@@ -26,6 +24,8 @@ Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Mar 6, 2026 | [Do Bayesian Neural Networks Actually Behave like Bayesian Models?](https://proceedings.mlr.press/v267/pituk25a.html) | Yuangkang Zhao | [Pituk ICML 2025](presentations/pituk_icml_2025.pdf)
+Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | [Hemker NeurIPS 2024](presentations/hemker_neurips_2024.pdf)
 Feb 20, 2026 | [Clarifying causal mediation analysis for the applied researcher: Defining effects based on what we want to learn](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496983/) | Yuqi Li | [Nguyen 2021](presentations/nguyen_2021.pdf)
 Feb 13, 2026 | [DEIM: DETR with Improved Matching for Fast Convergence](https://arxiv.org/pdf/2412.04234) | Scott Sun | [Huang CVPR 2025](presentations/huang_cvpr_2025.pdf)
 Feb 6, 2026 | [Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers](https://openreview.net/forum?id=WOFspd4lq5) | Yuangkang Zhao | [Bouchard TMLR 2025](presentations/bouchard_tmlr_2025.pdf)
