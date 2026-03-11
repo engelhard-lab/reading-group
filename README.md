@@ -14,7 +14,7 @@ Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
 Mar 13, 2026 | TBD | SPRING BREAK | NA
 Mar 20, 2026 | TBD | NO MEETING | NA
-Mar 27, 2026 | TBD | Fengnan Li | Jimin Xu & Mian Wei
+Mar 27, 2026 | [DYSCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/pdf/2602.22175) | Fengnan Li | Jimin Xu & Mian Wei
 Apr 3, 2026 | TBD | Qin Weng | Fengnan Li
 Apr 10, 2026 | TBD | Liwen Sun | Yuqi Li
 Apr 17, 2026 | TBD | Pengxi Liu | Matthew Xie
