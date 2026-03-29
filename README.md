@@ -12,7 +12,6 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Mar 27, 2026 | [DYSCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/pdf/2602.22175) | Fengnan Li | Jimin Xu & Mian Wei
 Apr 3, 2026 | TBD | Qin Weng | Fengnan Li
 Apr 10, 2026 | TBD | Liwen Sun | Yuqi Li
 Apr 17, 2026 | TBD | Pengxi Liu | Matthew Xie
@@ -22,6 +21,7 @@ Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Mar 27, 2026 | [DYSCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/pdf/2602.22175) | Fengnan Li | [Ye arXiv 2026](presentations/ye_arxiv_2026.pdf)
 Mar 6, 2026 | [Do Bayesian Neural Networks Actually Behave like Bayesian Models?](https://proceedings.mlr.press/v267/pituk25a.html) | Yuangkang Zhao | [Pituk ICML 2025](presentations/pituk_icml_2025.pdf)
 Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | [Hemker NeurIPS 2024](presentations/hemker_neurips_2024.pdf)
 Feb 20, 2026 | [Clarifying causal mediation analysis for the applied researcher: Defining effects based on what we want to learn](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496983/) | Yuqi Li | [Nguyen 2021](presentations/nguyen_2021.pdf)
