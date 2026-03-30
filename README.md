@@ -12,9 +12,9 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter | Research Presenter
 --- | --- | --- | ---
-Apr 3, 2026 | TBD | Qin Weng | Fengnan Li
+Apr 3, 2026 | [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) | Qin Weng | Fengnan Li
 Apr 10, 2026 | TBD | Liwen Sun | Yuqi Li
-Apr 17, 2026 | TBD | Pengxi Liu | Matthew Xie
+Apr 17, 2026 | [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/pdf/2407.01392) | Pengxi Liu | Matthew Xie
 Apr 24, 2026 | TBD | Yuqi Li | Yuankang Zhao
 
 ## Past Reading Group Presentations
