@@ -10,17 +10,31 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 ## Upcoming Presentations
 
-Date | Paper | Reading Group Presenter | Research Presenter
---- | --- | --- | ---
-Apr 3, 2026 | [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) | Qin Weng | Fengnan Li
-Apr 10, 2026 | [Post-Training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/pdf/2509.04784) | Liwen Sun | Yuqi Li
-Apr 17, 2026 | [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/pdf/2407.01392) | Pengxi Liu | Matthew Xie
-Apr 24, 2026 | [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628) | Yuqi Li | Yuankang Zhao
+Date | Paper | Reading Group Presenter
+--- | --- | ---
+Sep 4 | TBD | Qin Weng
+Sep 11 | TBD | Liwen Sun
+Sep 18 | TBD | Yuankang Zhao
+Sep 25 | TBD | Pengxi Liu
+Oct 2 | TBD | Fengnan Li
+Oct 9 | TBD | Finn Guo
+Oct 16 | TBD | Jay Ding
+Oct 23 | TBD | Yuqi Li
+Oct 30 | TBD | Qin Weng
+Nov 6 | TBD | Yuankang Zhao
+Nov 13 | TBD | Fengnan Li
+Nov 20 | TBD | NO MEETING
+Nov 27 | TBD | NO MEETING
+Dec 4 | TBD | Yuqi Li
 
 ## Past Reading Group Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Apr 24, 2026 | [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628) | Yuqi Li | [Kirsch TMLR 2025](presentations/kirsch_tmlr_2025.pdf)
+Apr 17, 2026 | [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/pdf/2407.01392) | Pengxi Liu | [Chen NeurIPS 2024](presentations/chen_neurips_2024.pdf)
+Apr 10, 2026 | [Post-Training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/pdf/2509.04784) | Liwen Sun | TBD
+Apr 3, 2026 | [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) | Qin Weng | [Hafner Nature 2025](presentations/hafner_nature_2025.pdf)
 Mar 27, 2026 | [DYSCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/pdf/2602.22175) | Fengnan Li | [Ye arXiv 2026](presentations/ye_arxiv_2026.pdf)
 Mar 6, 2026 | [Do Bayesian Neural Networks Actually Behave like Bayesian Models?](https://proceedings.mlr.press/v267/pituk25a.html) | Yuangkang Zhao | [Pituk ICML 2025](presentations/pituk_icml_2025.pdf)
 Feb 27, 2026 | [HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/765871e77d2ca65126d3d64d31aa6908-Paper-Conference.pdf) | Haoyu Gong | [Hemker NeurIPS 2024](presentations/hemker_neurips_2024.pdf)
