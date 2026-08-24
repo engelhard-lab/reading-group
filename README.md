@@ -33,7 +33,7 @@ Date | Paper | Presenter | Slides
 --- | --- | --- | ---
 Apr 24, 2026 | [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628) | Yuqi Li | [Kirsch TMLR 2025](presentations/kirsch_tmlr_2025.pdf)
 Apr 17, 2026 | [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/pdf/2407.01392) | Pengxi Liu | [Chen NeurIPS 2024](presentations/chen_neurips_2024.pdf)
-Apr 10, 2026 | [Post-Training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/pdf/2509.04784) | Liwen Sun | TBD
+Apr 10, 2026 | [Post-Training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/pdf/2509.04784) | Liwen Sun | [Chen ICLR 2026](presentations/chen_iclr_2026.pdf)
 Apr 3, 2026 | [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) | Qin Weng | [Hafner Nature 2025](presentations/hafner_nature_2025.pdf)
 Mar 27, 2026 | [DYSCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/pdf/2602.22175) | Fengnan Li | [Ye arXiv 2026](presentations/ye_arxiv_2026.pdf)
 Mar 6, 2026 | [Do Bayesian Neural Networks Actually Behave like Bayesian Models?](https://proceedings.mlr.press/v267/pituk25a.html) | Yuangkang Zhao | [Pituk ICML 2025](presentations/pituk_icml_2025.pdf)
