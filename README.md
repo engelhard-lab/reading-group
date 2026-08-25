@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Sep 4 | TBD | Qin Weng
+Sep 4 | [medDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support](https://arxiv.org/pdf/2505.19785) | Qin Weng
 Sep 11 | TBD | Liwen Sun
 Sep 18 | TBD | Yuankang Zhao
 Sep 25 | TBD | Pengxi Liu
