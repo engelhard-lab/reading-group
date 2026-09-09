@@ -15,7 +15,7 @@ Date | Paper | Reading Group Presenter
 Sep 4 | [medDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support](https://arxiv.org/pdf/2505.19785) | Qin Weng
 Sep 11 | [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/abs/2511.19399) | Liwen Sun
 Sep 18 | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/pdf/2506.10914) | Yuankang Zhao
-Sep 25 | TBD | Pengxi Liu
+Sep 25 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu
 Oct 2 | TBD | Fengnan Li
 Oct 9 | TBD | Finn Guo
 Oct 16 | TBD | Jay Ding
