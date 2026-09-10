@@ -12,8 +12,6 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Sep 4 | [medDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support](https://arxiv.org/pdf/2505.19785) | Qin Weng
-Sep 11 | [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/abs/2511.19399) | Liwen Sun
 Sep 18 | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/pdf/2506.10914) | Yuankang Zhao
 Sep 25 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu
 Oct 2 | TBD | Fengnan Li
@@ -31,6 +29,8 @@ Dec 4 | TBD | Yuqi Li
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Sep 11 | [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/abs/2511.19399) | [Shao ICML 2026](shao_icml_2026.pdf)
+Sep 4 | [medDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support](https://arxiv.org/pdf/2505.19785) | [Xu KDD 2026](presentations/xu_kdd_2026.pdf)
 Apr 24, 2026 | [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628) | Yuqi Li | [Kirsch TMLR 2025](presentations/kirsch_tmlr_2025.pdf)
 Apr 17, 2026 | [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/pdf/2407.01392) | Pengxi Liu | [Chen NeurIPS 2024](presentations/chen_neurips_2024.pdf)
 Apr 10, 2026 | [Post-Training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/pdf/2509.04784) | Liwen Sun | [Chen ICLR 2026](presentations/chen_iclr_2026.pdf)
