@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Sep 18, 2026 | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/pdf/2506.10914) | Yuankang Zhao
+Sep 18, 2026 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Yuankang Zhao
 Sep 25, 2026 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu
 Oct 2, 2026 | TBD | Fengnan Li
 Oct 9, 2026 | TBD | Finn Guo
