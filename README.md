@@ -15,8 +15,8 @@ Date | Paper | Reading Group Presenter
 Sep 25, 2026 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu
 Oct 2, 2026 | TBD | Fengnan Li
 Oct 9, 2026 | TBD | Finn Guo
-Oct 16, 2026 | TBD | TBD
-Oct 23, 2026 | TBD | Yuqi Li
+Oct 16, 2026 | TBD | Yuqi Li
+Oct 23, 2026 | TBD | TBD
 Oct 30, 2026 | TBD | Qin Weng
 Nov 6, 2026 | TBD | Yuankang Zhao
 Nov 13, 2026 | TBD | Fengnan Li
