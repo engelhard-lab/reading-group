@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Oct 2, 2026 | TBD | Fengnan Li
+Oct 2, 2026 | [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259) | Fengnan Li
 Oct 9, 2026 | TBD | Finn Guo
 Oct 16, 2026 | [Evaluating Treatment Prioritization Rules via Rank-Weighted Average Treatment Effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC12002561/) | Yuqi Li
 Oct 23, 2026 | TBD | TBD
