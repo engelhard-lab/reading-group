@@ -12,10 +12,9 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Sep 25, 2026 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu
 Oct 2, 2026 | TBD | Fengnan Li
 Oct 9, 2026 | TBD | Finn Guo
-Oct 16, 2026 | TBD | Yuqi Li
+Oct 16, 2026 | [Evaluating Treatment Prioritization Rules via Rank-Weighted Average Treatment Effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC12002561/) | Yuqi Li
 Oct 23, 2026 | TBD | TBD
 Oct 30, 2026 | TBD | Qin Weng
 Nov 6, 2026 | TBD | Yuankang Zhao
@@ -28,6 +27,7 @@ Dec 4, 2026 | TBD | Yuqi Li
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Sep 25, 2026 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu | [Chefer ICML 2026](presentations/chefer_icml_2026.pdf)
 Sep 18, 2026 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Yuankang Zhao | [Hollmann Nature 2025](presentations/hollmann_nature_2025.pdf)
 Sep 11, 2026 | [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/abs/2511.19399) | Liwen Sun | [Shao ICML 2026](presentations/shao_icml_2026.pdf)
 Sep 4, 2026 | [medDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support](https://arxiv.org/pdf/2505.19785) | Qin Weng | [Xu KDD 2026](presentations/xu_kdd_2026.pdf)
