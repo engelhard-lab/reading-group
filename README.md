@@ -12,21 +12,21 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Oct 2, 2026 | [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259) | Fengnan Li
-Oct 9, 2026 | [Adaptive Hopfield Network: Rethinking Similarities in Associative Memory](https://openreview.net/pdf?id=HKSp4U69dy) | Finn Guo
+Oct 9, 2026 | NA | NO MEETING
 Oct 16, 2026 | [Evaluating Treatment Prioritization Rules via Rank-Weighted Average Treatment Effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC12002561/) | Yuqi Li
-Oct 23, 2026 | TBD | TBD
+Oct 23, 2026 | [Adaptive Hopfield Network: Rethinking Similarities in Associative Memory](https://openreview.net/pdf?id=HKSp4U69dy) | Finn Guo
 Oct 30, 2026 | TBD | Qin Weng
 Nov 6, 2026 | TBD | Yuankang Zhao
 Nov 13, 2026 | TBD | Fengnan Li
-Nov 20, 2026 | TBD | NO MEETING
-Nov 27, 2026 | TBD | NO MEETING
+Nov 20, 2026 | NA | NO MEETING
+Nov 27, 2026 | NA | NO MEETING
 Dec 4, 2026 | TBD | Yuqi Li
 
 ## Past Reading Group Presentations
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 2, 2026 | [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259) | Fengnan Li | [Yu ICLR 2026](presentations/yu_iclr_2026.pdf)
 Sep 25, 2026 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu | [Chefer ICML 2026](presentations/chefer_icml_2026.pdf)
 Sep 18, 2026 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Yuankang Zhao | [Hollmann Nature 2025](presentations/hollmann_nature_2025.pdf)
 Sep 11, 2026 | [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/abs/2511.19399) | Liwen Sun | [Shao ICML 2026](presentations/shao_icml_2026.pdf)
