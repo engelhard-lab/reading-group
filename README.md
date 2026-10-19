@@ -12,8 +12,6 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Oct 9, 2026 | NA | NO MEETING
-Oct 16, 2026 | [Evaluating Treatment Prioritization Rules via Rank-Weighted Average Treatment Effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC12002561/) | Yuqi Li
 Oct 23, 2026 | [Adaptive Hopfield Network: Rethinking Similarities in Associative Memory](https://openreview.net/pdf?id=HKSp4U69dy) | Finn Guo
 Oct 30, 2026 | TBD | Qin Weng
 Nov 6, 2026 | TBD | Yuankang Zhao
@@ -26,6 +24,7 @@ Dec 4, 2026 | TBD | Yuqi Li
 
 Date | Paper | Presenter | Slides
 --- | --- | --- | ---
+Oct 16, 2026 | [Evaluating Treatment Prioritization Rules via Rank-Weighted Average Treatment Effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC12002561/) | Yuqi Li | [Yadlowski JASA 2026](presentations/yadlowski_jasa_2026.pdf)
 Oct 2, 2026 | [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259) | Fengnan Li | [Yu ICLR 2026](presentations/yu_iclr_2026.pdf)
 Sep 25, 2026 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/pdf/2603.06507) | Pengxi Liu | [Chefer ICML 2026](presentations/chefer_icml_2026.pdf)
 Sep 18, 2026 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Yuankang Zhao | [Hollmann Nature 2025](presentations/hollmann_nature_2025.pdf)
