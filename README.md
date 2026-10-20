@@ -13,7 +13,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 Date | Paper | Reading Group Presenter
 --- | --- | ---
 Oct 23, 2026 | [Adaptive Hopfield Network: Rethinking Similarities in Associative Memory](https://openreview.net/pdf?id=HKSp4U69dy) | Finn Guo
-Oct 30, 2026 | TBD | Qin Weng
+Oct 30, 2026 | [Is In-Context Learning in LLMs Bayesian? A Martingale Perspective](https://arxiv.org/pdf/2406.00793) | Qin Weng
 Nov 6, 2026 | TBD | Yuankang Zhao
 Nov 13, 2026 | TBD | Fengnan Li
 Nov 20, 2026 | NA | NO MEETING
