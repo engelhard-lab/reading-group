@@ -12,7 +12,7 @@ To understand and develop AI methods for longitudinal multi-modal data and clini
 
 Date | Paper | Reading Group Presenter
 --- | --- | ---
-Nov 6, 2026 | [Online LLM personalization from pairwise preferences across users](https://arxiv.org/pdf/2610.17203v1) | Yuankang Zhao
+Nov 6, 2026 | [Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning](https://arxiv.org/abs/2408.10075) | Yuankang Zhao
 Nov 13, 2026 | [Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing](https://arxiv.org/abs/2610.22196) | Fengnan Li
 Nov 20, 2026 | NA | NO MEETING
 Nov 27, 2026 | NA | NO MEETING
